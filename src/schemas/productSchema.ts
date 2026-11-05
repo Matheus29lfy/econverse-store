@@ -8,9 +8,11 @@ export const ProductSchema = z.object({
   oldPrice: z.number(),
   price: z.number(),
   image: z.string(),
-  token: z.string().optional(),
   installments: z.string(),
   freeShipping: z.boolean(),
 });
 
 export const ProductsListSchema = z.array(ProductSchema);
+
+// Tipo inferido automaticamente pelo Zod para usar nos componentes
+export type Product = z.infer<typeof ProductSchema>;
