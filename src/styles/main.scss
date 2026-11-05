@@ -1,0 +1,12 @@
+@use 'variables' as *;
+@use 'reset';
+
+.home-container {
+  position: relative;
+  width: 100%;          // Ocupa 100% da tela de ponta a ponta
+  max-width: 1440px;    // Limita o crescimento em monitores ultra-wide
+  margin: 0 auto;       // Centraliza caso a tela seja maior que 1440px
+  background: $color-white;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.05); // Opcional: dá um respiro visual se necessário
+  overflow-x: hidden;
+}

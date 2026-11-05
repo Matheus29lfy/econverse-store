@@ -1,0 +1,177 @@
+@use '../../styles/variables' as *;
+
+.related-products-container {
+  max-width: 1364px;
+  margin: 60px auto;
+  padding: 0 16px;
+  position: relative;
+
+  .title-area {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    margin-bottom: 24px;
+
+    h3 {
+      font-size: 30px;
+      font-weight: 700;
+      color: $color-blue;
+    }
+
+    .line {
+      flex: 1;
+      height: 1px;
+      background: $color-border;
+      max-width: 360px;
+    }
+  }
+
+  .tabs-bar {
+    display: flex;
+    max-width: 1280px;
+    margin: 0 auto 32px auto;
+    border: 1px solid #BDBDBD;
+
+    .tab-item {
+      flex: 1;
+      height: 40px;
+      background: $color-white;
+      font-size: 16px;
+      font-weight: 400;
+      text-transform: uppercase;
+      color: #3B3B3B;
+      border-right: 1px solid #BDBDBD;
+      cursor: pointer;
+      transition: all 0.2s;
+
+      &:last-child {
+        border-right: none;
+      }
+
+      &.active, &:hover {
+        color: $color-blue;
+        font-weight: 700;
+      }
+    }
+  }
+
+  // Wrapper do carrossel centralizado com as setas nas extremidades
+  .carousel-wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+    max-width: 1270px;
+    margin: 0 auto;
+
+    .arrow-btn {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background: $color-white;
+      box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+      font-size: 18px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      z-index: 10;
+      border: none;
+      transition: background 0.2s, color 0.2s;
+
+      &:hover {
+        background: $color-blue;
+        color: $color-white;
+      }
+
+      &.prev {
+        left: -20px;
+      }
+
+      &.next {
+        right: -20px;
+      }
+    }
+
+    // FORÇANDO A DISPOSIÇÃO HORIZONTAL (LADO A LADO)
+    .grid-products {
+      display: flex;
+      flex-direction: row; // Garante que os cards fiquem um ao lado do outro
+      flex-wrap: nowrap;   // Impede que quebrem de linha
+      gap: 18px;
+      width: 100%;
+      overflow-x: auto;
+      scroll-behavior: smooth;
+      padding: 10px 4px;
+
+      // Oculta a barra de rolagem visualmente mantendo a rolagem lateral
+      scrollbar-width: none; 
+      &::-webkit-scrollbar {
+        display: none; 
+      }
+
+      .product-card {
+        min-width: 304px;
+        width: 304px;
+        height: 500px;
+        background: $color-white;
+        box-shadow: 0px 3px 19px rgba(0, 0, 0, 0.22);
+        border-radius: 10px;
+        padding: 16px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        cursor: pointer;
+        flex-shrink: 0; // Impede que o card seja espremido
+
+        .product-img {
+          height: 200px;
+          object-fit: contain;
+          margin: 0 auto;
+        }
+
+        .product-desc {
+          font-size: 15px;
+          font-weight: 300;
+          line-height: 22px;
+          color: $color-black;
+        }
+
+        .price-old {
+          font-size: 16px;
+          color: #808080;
+          text-decoration: line-through;
+        }
+
+        .price-current {
+          font-size: 20px;
+          font-weight: 700;
+          color: $color-black;
+        }
+
+        .installments {
+          font-size: 12px;
+          color: $color-black;
+        }
+
+        .free-shipping {
+          font-size: 12px;
+          color: $color-blue;
+        }
+
+        .btn-buy {
+          height: 44px;
+          background: $color-blue;
+          color: $color-white;
+          font-weight: 700;
+          font-size: 14px;
+          text-transform: uppercase;
+          border-radius: 4px;
+        }
+      }
+    }
+  }
+}

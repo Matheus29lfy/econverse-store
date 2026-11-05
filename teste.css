@@ -1,0 +1,9832 @@
+/* Home */
+
+position: relative;
+width: 1440px;
+height: 4660px;
+
+background: #FFFFFF;
+
+
+/* header */
+
+position: absolute;
+width: 1280px;
+height: 144px;
+left: 80px;
+top: 0px;
+
+
+
+/* Group 880 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Rectangle 249 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 22.22%;
+bottom: 27.78%;
+
+/* WHITE */
+background: #FFFFFF;
+
+
+/* Rectangle 248 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 77.78%;
+
+/* WHITE */
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 72.22%;
+bottom: 0%;
+
+/* WHITE */
+background: #FFFFFF;
+box-shadow: 0px 8px 16px rgba(57, 48, 19, 0.12);
+border-radius: 0px;
+
+
+/* Rectangle 102 */
+
+position: absolute;
+left: 25.39%;
+right: 25.39%;
+top: 30.56%;
+bottom: 36.11%;
+
+background: #F7F5F2;
+border-radius: 10px;
+
+
+/* Line 16 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 22.22%;
+bottom: 77.78%;
+
+border: 1px solid #F0F0F0;
+
+
+/* Frame 2365 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+position: absolute;
+width: 216px;
+height: 32px;
+left: 1064px;
+top: 52px;
+
+
+
+/* Group */
+
+width: 24px;
+height: 24px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 88.89%;
+top: 0%;
+bottom: 25%;
+
+background: #9F9F9F;
+border: 0.2px solid #9F9F9F;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Heart */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Heart */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.94%;
+right: 10.94%;
+top: 15.62%;
+bottom: 15.62%;
+
+/* GRAY 1 */
+border: 2px solid #9F9F9F;
+
+
+/* UserCircle */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* UserCircle */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+/* GRAY 1 */
+border: 2px solid #9F9F9F;
+
+
+/* Vector */
+
+position: absolute;
+left: 34.38%;
+right: 34.38%;
+top: 31.25%;
+bottom: 37.5%;
+
+/* GRAY 1 */
+border: 2px solid #9F9F9F;
+
+
+/* Vector */
+
+position: absolute;
+left: 24.92%;
+right: 24.92%;
+top: 62.5%;
+bottom: 22.12%;
+
+/* GRAY 1 */
+border: 2px solid #9F9F9F;
+
+
+/* ShoppingCart */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* ShoppingCart */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.25%;
+right: 28.12%;
+top: 9.38%;
+bottom: 28.12%;
+
+/* GRAY 1 */
+border: 2px solid #9F9F9F;
+
+
+/* Vector */
+
+position: absolute;
+left: 23.44%;
+right: 60.94%;
+top: 71.88%;
+bottom: 12.5%;
+
+/* GRAY 1 */
+border: 2px solid #9F9F9F;
+
+
+/* Vector */
+
+position: absolute;
+left: 64.06%;
+right: 20.31%;
+top: 71.88%;
+bottom: 12.5%;
+
+/* GRAY 1 */
+border: 2px solid #9F9F9F;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.75%;
+right: 15.62%;
+top: 25%;
+bottom: 43.75%;
+
+/* GRAY 1 */
+border: 2px solid #9F9F9F;
+
+
+/* Frame 880 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 91px;
+
+position: absolute;
+width: 1141px;
+left: calc(50% - 1141px/2 - 0.5px);
+top: 79.17%;
+bottom: 6.94%;
+
+
+
+/* Todas Categorias */
+
+width: 121px;
+height: 18px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+text-transform: uppercase;
+
+/* GRAY 1 */
+color: #9F9F9F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Supermercado */
+
+width: 98px;
+height: 18px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+text-transform: uppercase;
+
+/* GRAY 1 */
+color: #9F9F9F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Livros */
+
+width: 42px;
+height: 18px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+text-transform: uppercase;
+
+/* GRAY 1 */
+color: #9F9F9F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Moda */
+
+width: 38px;
+height: 18px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+text-transform: uppercase;
+
+/* GRAY 1 */
+color: #9F9F9F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Lançamentos */
+
+width: 91px;
+height: 18px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+text-transform: uppercase;
+
+/* Cinza Médio */
+color: #9F9F9F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Ofertas do dia */
+
+width: 97px;
+height: 18px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+text-transform: uppercase;
+
+color: #3019B2;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Group 783 */
+
+width: 108px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* CrownSimple */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1033px;
+top: 0px;
+
+
+
+/* CrownSimple */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 0px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 7.61%;
+right: 7.61%;
+top: 15.81%;
+bottom: 21.02%;
+
+/* GRAY 1 */
+border: 2px solid #9F9F9F;
+
+
+/* Assinatura */
+
+position: absolute;
+width: 76px;
+height: 18px;
+left: 1065px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+text-transform: uppercase;
+
+/* GRAY 1 */
+color: #9F9F9F;
+
+
+
+/* Frame 2364 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 119px;
+
+position: absolute;
+width: 764px;
+height: 20px;
+left: calc(50% - 764px/2);
+top: 6px;
+
+
+
+/* Group 833 */
+
+width: 158px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 844 */
+
+position: absolute;
+left: 0%;
+right: 79.32%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Compra 100% segura */
+
+position: absolute;
+left: 3.8%;
+right: 79.32%;
+top: 5%;
+bottom: 5%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+
+/* GRAY 1 */
+color: #9F9F9F;
+
+
+
+/* ShieldCheck */
+
+position: absolute;
+left: 0%;
+right: 97.38%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 97.38%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0.41%;
+right: 97.79%;
+top: 18.75%;
+bottom: 9.51%;
+
+/* GRAY 1 */
+border: 2px solid #9F9F9F;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.86%;
+right: 98.24%;
+top: 40.62%;
+bottom: 37.5%;
+
+/* GRAY 1 */
+border: 2px solid #9F9F9F;
+
+
+/* Group 845 */
+
+width: 203px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Truck */
+
+position: absolute;
+left: 36.26%;
+right: 61.13%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Truck */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 0px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 68.75%;
+right: 6.25%;
+top: 31.25%;
+bottom: 53.12%;
+
+/* GRAY 1 */
+border: 2px solid #9F9F9F;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.25%;
+right: 31.25%;
+top: 56.25%;
+bottom: 43.75%;
+
+/* GRAY 1 */
+border: 2px solid #9F9F9F;
+
+
+/* Vector */
+
+position: absolute;
+left: 64.06%;
+right: 17.19%;
+top: 65.62%;
+bottom: 15.62%;
+
+/* GRAY 1 */
+border: 2px solid #9F9F9F;
+
+
+/* Vector */
+
+position: absolute;
+left: 17.19%;
+right: 64.06%;
+top: 65.62%;
+bottom: 15.62%;
+
+/* GRAY 1 */
+border: 2px solid #9F9F9F;
+
+
+/* Vector */
+
+position: absolute;
+left: 35.94%;
+right: 35.94%;
+top: 75%;
+bottom: 25%;
+
+/* GRAY 1 */
+border: 2px solid #9F9F9F;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.25%;
+right: 31.25%;
+top: 25%;
+bottom: 25%;
+
+/* GRAY 1 */
+border: 2px solid #9F9F9F;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.75%;
+right: 6.25%;
+top: 46.88%;
+bottom: 25%;
+
+/* GRAY 1 */
+border: 2px solid #9F9F9F;
+
+
+/* Frete grátis acima de R$ 200 */
+
+position: absolute;
+left: 40.05%;
+right: 37.17%;
+top: 5%;
+bottom: 5%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+
+color: #3019B2;
+
+
+
+/* Group 832 */
+
+width: 165px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Parcele suas compras */
+
+position: absolute;
+left: 82.2%;
+right: 0%;
+top: 5%;
+bottom: 5%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+
+color: #3019B2;
+
+
+
+/* CreditCard */
+
+position: absolute;
+left: 78.4%;
+right: 18.98%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 78.4%;
+right: 18.98%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 78.65%;
+right: 19.22%;
+top: 21.88%;
+bottom: 21.88%;
+
+/* GRAY 1 */
+border: 2px solid #9F9F9F;
+
+
+/* Vector */
+
+position: absolute;
+left: 80.12%;
+right: 19.55%;
+top: 65.62%;
+bottom: 34.38%;
+
+/* GRAY 1 */
+border: 2px solid #9F9F9F;
+
+
+/* Vector */
+
+position: absolute;
+left: 79.63%;
+right: 20.21%;
+top: 65.62%;
+bottom: 34.38%;
+
+/* GRAY 1 */
+border: 2px solid #9F9F9F;
+
+
+/* Vector */
+
+position: absolute;
+left: 78.65%;
+right: 19.22%;
+top: 37.83%;
+bottom: 62.17%;
+
+/* GRAY 1 */
+border: 2px solid #9F9F9F;
+
+
+/* Line 17 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 72.22%;
+bottom: 27.78%;
+
+border: 1px solid #F0F0F0;
+
+
+/* MagnifyingGlass */
+
+position: absolute;
+left: 70.55%;
+right: 27.27%;
+top: 37.5%;
+bottom: 43.06%;
+
+
+
+/* MagnifyingGlass */
+
+position: absolute;
+width: 28px;
+height: 28px;
+left: 0px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 21.88%;
+top: 12.5%;
+bottom: 21.88%;
+
+/* GRAY 1 */
+border: 2px solid #9F9F9F;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.51%;
+right: 12.5%;
+top: 68.52%;
+bottom: 12.5%;
+
+/* GRAY 1 */
+border: 2px solid #9F9F9F;
+
+
+/* O que você está buscando? */
+
+position: absolute;
+left: 26.64%;
+right: 57.97%;
+top: 40.28%;
+bottom: 45.14%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+/* GRAY 1 */
+color: #9F9F9F;
+
+
+
+/* Group 35 */
+
+position: absolute;
+left: 0%;
+right: 89.14%;
+top: 32.64%;
+bottom: 38.68%;
+
+
+
+/* Logo */
+
+position: absolute;
+left: 0%;
+right: 89.14%;
+top: 32.64%;
+bottom: 38.68%;
+
+
+
+/* Exclude */
+
+position: absolute;
+left: 0%;
+right: 96.77%;
+top: 32.64%;
+bottom: 38.68%;
+
+background: #F7CA11;
+
+
+/* Caminho 30 */
+
+position: absolute;
+left: 0%;
+right: 96.77%;
+top: 32.64%;
+bottom: 38.68%;
+
+/* Paleta de cores/Amarelo */
+background: #F7CA11;
+
+
+/* Caminho 31 */
+
+position: absolute;
+left: 0.52%;
+right: 98.33%;
+top: 42.43%;
+bottom: 47.17%;
+
+/* Paleta de cores/Violeta */
+background: #271C47;
+
+
+/* Caminho 32 */
+
+position: absolute;
+left: 1.8%;
+right: 97.11%;
+top: 42.43%;
+bottom: 47.17%;
+
+/* Paleta de cores/Violeta */
+background: #271C47;
+
+
+/* Caminho 33 */
+
+position: absolute;
+left: 2.97%;
+right: 95.87%;
+top: 42.43%;
+bottom: 47.17%;
+
+background: #271C47;
+
+
+/* Caminho 34 */
+
+position: absolute;
+left: 4.34%;
+right: 94.63%;
+top: 42.43%;
+bottom: 47.45%;
+
+background: #271C47;
+
+
+/* Caminho 35 */
+
+position: absolute;
+left: 5.47%;
+right: 93.36%;
+top: 42.71%;
+bottom: 47.45%;
+
+background: #271C47;
+
+
+/* Caminho 36 */
+
+position: absolute;
+left: 6.67%;
+right: 92.18%;
+top: 42.43%;
+bottom: 47.17%;
+
+background: #271C47;
+
+
+/* Caminho 37 */
+
+position: absolute;
+left: 8.02%;
+right: 91.36%;
+top: 42.51%;
+bottom: 47.45%;
+
+background: #271C47;
+
+
+/* Caminho 38 */
+
+position: absolute;
+left: 8.69%;
+right: 90.4%;
+top: 42.43%;
+bottom: 47.17%;
+
+background: #271C47;
+
+
+/* Caminho 39 */
+
+position: absolute;
+left: 9.71%;
+right: 89.14%;
+top: 42.43%;
+bottom: 47.17%;
+
+background: #271C47;
+
+
+/* Grupo 8 */
+
+position: absolute;
+left: 2.97%;
+right: 89.14%;
+top: 42.43%;
+bottom: 47.17%;
+
+
+
+/* Intersect */
+
+position: absolute;
+left: 0%;
+right: 96.77%;
+top: 32.64%;
+bottom: 38.68%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 30 */
+
+position: absolute;
+left: 0%;
+right: 96.77%;
+top: 32.64%;
+bottom: 38.68%;
+
+/* Paleta de cores/Amarelo */
+background: #F7CA11;
+
+
+/* Caminho 31 */
+
+position: absolute;
+left: 0.52%;
+right: 98.33%;
+top: 42.43%;
+bottom: 47.17%;
+
+/* Paleta de cores/Neutras/Background */
+background: #F8F8F8;
+
+
+/* Caminho 32 */
+
+position: absolute;
+left: 1.8%;
+right: 97.11%;
+top: 42.43%;
+bottom: 47.17%;
+
+/* Paleta de cores/Neutras/Background */
+background: #F8F8F8;
+
+
+/* Caminho 33 */
+
+position: absolute;
+left: 2.97%;
+right: 95.87%;
+top: 42.43%;
+bottom: 47.17%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 34 */
+
+position: absolute;
+left: 4.34%;
+right: 94.63%;
+top: 42.43%;
+bottom: 47.45%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 35 */
+
+position: absolute;
+left: 5.47%;
+right: 93.36%;
+top: 42.71%;
+bottom: 47.45%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 36 */
+
+position: absolute;
+left: 6.67%;
+right: 92.18%;
+top: 42.43%;
+bottom: 47.17%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 37 */
+
+position: absolute;
+left: 8.02%;
+right: 91.36%;
+top: 42.51%;
+bottom: 47.45%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 38 */
+
+position: absolute;
+left: 8.69%;
+right: 90.4%;
+top: 42.43%;
+bottom: 47.17%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 39 */
+
+position: absolute;
+left: 9.71%;
+right: 89.14%;
+top: 42.43%;
+bottom: 47.17%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Rectangle 216 */
+
+position: absolute;
+width: 128px;
+height: 128px;
+left: 1868px;
+top: 573px;
+
+background: #F4F4F4;
+box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.13);
+border-radius: 10px;
+
+
+/* Oriental */
+
+position: absolute;
+width: 65px;
+height: 24px;
+left: 1899px;
+top: 723px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-align: center;
+
+/* PRETO */
+color: #4E4E4E;
+
+
+
+/* sushi 1 */
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 1904px;
+top: 609px;
+
+background: url(sushi.png);
+
+
+/* Rectangle 220 */
+
+position: absolute;
+width: 128px;
+height: 128px;
+left: 1670px;
+top: 573px;
+
+background: #F4F4F4;
+box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.13);
+border-radius: 10px;
+
+
+/* Padarias */
+
+position: absolute;
+width: 72px;
+height: 24px;
+left: 1698px;
+top: 723px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+/* PRETO */
+color: #4E4E4E;
+
+
+
+/* bread */
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 1704px;
+top: 607px;
+
+background: url(bread.png);
+
+
+/* Rectangle 219 */
+
+position: absolute;
+width: 128px;
+height: 128px;
+left: 1472px;
+top: 573px;
+
+background: #F4F4F4;
+box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.13);
+border-radius: 10px;
+
+
+/* Mercados */
+
+position: absolute;
+width: 81px;
+height: 24px;
+left: 1495px;
+top: 723px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+/* PRETO */
+color: #4E4E4E;
+
+
+
+/* Group 394 */
+
+position: absolute;
+width: 211px;
+height: 211px;
+left: 1866px;
+top: 2644px;
+
+
+
+/* Ellipse 47 */
+
+position: absolute;
+width: 211px;
+height: 211px;
+left: 1866px;
+top: 2644px;
+
+background: #FFFFFF;
+box-shadow: 0px 7px 20px rgba(0, 0, 0, 0.13);
+
+
+/* image 67 */
+
+position: absolute;
+width: 142px;
+height: 142px;
+left: 1901px;
+top: 2679px;
+
+background: url(.png);
+
+
+/* Group 395 */
+
+position: absolute;
+width: 211px;
+height: 211px;
+left: 1615px;
+top: 2644px;
+
+
+
+/* Ellipse 46 */
+
+position: absolute;
+width: 211px;
+height: 211px;
+left: 1615px;
+top: 2644px;
+
+background: #FFFFFF;
+box-shadow: 0px 7px 20px rgba(0, 0, 0, 0.13);
+
+
+/* image 70 */
+
+position: absolute;
+width: 142px;
+height: 142px;
+left: 1650px;
+top: 2679px;
+
+background: url(.png);
+
+
+/* Group 393 */
+
+position: absolute;
+width: 211px;
+height: 211px;
+left: 2117px;
+top: 2644px;
+
+
+
+/* Ellipse 48 */
+
+position: absolute;
+width: 211px;
+height: 211px;
+left: 2117px;
+top: 2644px;
+
+background: #FFFFFF;
+box-shadow: 0px 7px 20px rgba(0, 0, 0, 0.13);
+
+
+/* image 74 */
+
+position: absolute;
+width: 142px;
+height: 142px;
+left: 2152px;
+top: 2679px;
+
+background: url(.png);
+
+
+/* Rectangle 250 */
+
+position: absolute;
+width: 1440px;
+height: 390px;
+left: 0px;
+top: 144px;
+
+background: url(black-friday-november-sales-day-shopping-center-retail-shop-decorated-with-big-sales-labels-discounted-items-empty-fashion-boutique-with-cheap-clothes-clearance-outlet-concept.jpg);
+
+
+/* Rectangle 108 */
+
+position: absolute;
+width: 390px;
+height: 966px;
+left: 0px;
+top: 144px;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 85.04%);
+mix-blend-mode: normal;
+opacity: 0.8;
+border-radius: 0px;
+transform: rotate(90deg);
+
+
+/* Venha conhecer nossas promoções */
+
+position: absolute;
+width: 822px;
+height: 128px;
+left: 81px;
+top: 222px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 50px;
+/* or 104% */
+
+color: #FFFFFF;
+
+
+
+/* 50% Off nos produtos */
+
+position: absolute;
+width: 343px;
+height: 48px;
+left: 78px;
+top: 340px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+
+color: #F7CA11;
+
+
+
+/* Frame 23198 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 7px 49px;
+gap: 10px;
+
+position: absolute;
+width: 206px;
+height: 50px;
+left: 87px;
+top: 429px;
+
+/* Amarelo */
+background: #F7CA11;
+border-radius: 5px;
+
+
+/* Ver produto */
+
+width: 97px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #271C47;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* compre por categoria */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 42px;
+
+position: absolute;
+width: 1160px;
+height: 171px;
+left: 139.5px;
+top: 573px;
+
+
+
+/* Group 2410 */
+
+width: 128px;
+height: 171px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* pizzarias */
+
+position: absolute;
+width: 128px;
+height: 171px;
+left: 0px;
+top: 0px;
+
+
+
+/* Rectangle 212 */
+
+position: absolute;
+width: 128px;
+height: 128px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 2px 9px rgba(0, 0, 0, 0.22);
+border-radius: 10px;
+
+
+/* Tecnologia */
+
+position: absolute;
+width: 80px;
+height: 21px;
+left: 19px;
+top: 150px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+color: #3019B2;
+
+
+
+/* image */
+
+position: absolute;
+width: 61px;
+height: 61px;
+left: 33px;
+top: 34px;
+
+background: url(image);
+
+
+/* Group 2404 */
+
+width: 128px;
+height: 171px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* restaurantes */
+
+position: absolute;
+width: 128px;
+height: 171px;
+left: 170px;
+top: 0px;
+
+
+
+/* Rectangle 213 */
+
+position: absolute;
+width: 128px;
+height: 128px;
+left: 170px;
+top: 0px;
+
+background: #F4F4F4;
+box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.13);
+border-radius: 10px;
+
+
+/* Supermercado */
+
+position: absolute;
+width: 106px;
+height: 21px;
+left: 173px;
+top: 150px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+/* PRETO */
+color: #4E4E4E;
+
+
+
+/* supermercados 1 */
+
+position: absolute;
+width: 61px;
+height: 61px;
+left: 203px;
+top: 34px;
+
+background: url(supermercados.png);
+
+
+/* Group 2405 */
+
+width: 140px;
+height: 171px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* bares */
+
+position: absolute;
+width: 140px;
+height: 171px;
+left: 340px;
+top: 0px;
+
+
+
+/* Rectangle 214 */
+
+position: absolute;
+width: 128px;
+height: 128px;
+left: 346px;
+top: 0px;
+
+background: #F4F4F4;
+box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.13);
+border-radius: 10px;
+
+
+/* Bebidas */
+
+position: absolute;
+width: 140px;
+height: 21px;
+left: 340px;
+top: 150px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+text-align: center;
+
+/* PRETO */
+color: #4E4E4E;
+
+
+
+/* whiskey */
+
+position: absolute;
+width: 61px;
+height: 61px;
+left: 379px;
+top: 34px;
+
+background: url(whiskey.png);
+
+
+/* Group 2406 */
+
+width: 128px;
+height: 171px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* churrascaria */
+
+position: absolute;
+width: 128px;
+height: 171px;
+left: 522px;
+top: 0px;
+
+
+
+/* Rectangle 215 */
+
+position: absolute;
+width: 128px;
+height: 128px;
+left: 522px;
+top: 0px;
+
+background: #F4F4F4;
+box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.13);
+border-radius: 10px;
+
+
+/* Ferramentas */
+
+position: absolute;
+width: 107px;
+height: 21px;
+left: 533px;
+top: 150px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+text-align: center;
+
+/* PRETO */
+color: #4E4E4E;
+
+
+
+/* ferramentas 1 */
+
+position: absolute;
+width: 61px;
+height: 61px;
+left: 556px;
+top: 34px;
+
+background: url(ferramentas.png);
+
+
+/* Group 2407 */
+
+width: 128px;
+height: 171px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* cozinhas_industriais */
+
+position: absolute;
+width: 128px;
+height: 171px;
+left: 692px;
+top: 0px;
+
+
+
+/* Rectangle 216 */
+
+position: absolute;
+width: 128px;
+height: 128px;
+left: 692px;
+top: 0px;
+
+background: #F4F4F4;
+box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.13);
+border-radius: 10px;
+
+
+/* Saúde */
+
+position: absolute;
+width: 46px;
+height: 21px;
+left: 733px;
+top: 150px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+text-align: center;
+
+/* PRETO */
+color: #4E4E4E;
+
+
+
+/* cuidados-de-saude 1 */
+
+position: absolute;
+width: 61px;
+height: 61px;
+left: 726px;
+top: 34px;
+
+background: url(cuidados-de-saude.png);
+
+
+/* Group 2408 */
+
+width: 128px;
+height: 171px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* hotéis */
+
+position: absolute;
+width: 128px;
+height: 171px;
+left: 862px;
+top: 0px;
+
+
+
+/* Rectangle 217 */
+
+position: absolute;
+width: 128px;
+height: 128px;
+left: 862px;
+top: 0px;
+
+background: #F4F4F4;
+box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.13);
+border-radius: 10px;
+
+
+/* Esportes e Fitness */
+
+position: absolute;
+width: 125px;
+height: 21px;
+left: 863px;
+top: 150px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+text-align: center;
+
+/* PRETO */
+color: #4E4E4E;
+
+
+
+/* corrida 1 */
+
+position: absolute;
+width: 61px;
+height: 61px;
+left: 896px;
+top: 34px;
+
+background: url(corrida.png);
+
+
+/* Group 2409 */
+
+width: 128px;
+height: 171px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* lanchonetes */
+
+position: absolute;
+width: 128px;
+height: 171px;
+left: 1032px;
+top: 0px;
+
+
+
+/* Rectangle 218 */
+
+position: absolute;
+width: 128px;
+height: 128px;
+left: 1032px;
+top: 0px;
+
+background: #F4F4F4;
+box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.13);
+border-radius: 10px;
+
+
+/* Moda */
+
+position: absolute;
+width: 41px;
+height: 21px;
+left: 1076px;
+top: 150px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+text-align: center;
+
+/* PRETO */
+color: #4E4E4E;
+
+
+
+/* moda 1 */
+
+position: absolute;
+width: 63px;
+height: 63px;
+left: 1065px;
+top: 31px;
+
+background: url(moda.png);
+
+
+/* vitrine 1 */
+
+position: absolute;
+width: 1364px;
+height: 613px;
+left: 37.5px;
+top: 834px;
+
+
+
+/* Group 874 */
+
+position: absolute;
+left: 10.38%;
+right: 10.59%;
+top: 17.9%;
+bottom: 80.56%;
+
+
+
+/* titulo */
+
+position: absolute;
+left: 10.38%;
+right: 10.59%;
+top: 17.9%;
+bottom: 81.14%;
+
+
+
+/* Group 866 */
+
+position: absolute;
+left: 10.38%;
+right: 10.59%;
+top: 17.9%;
+bottom: 81.14%;
+
+
+
+/* Produtos relacionados */
+
+position: absolute;
+width: 350px;
+height: 45px;
+left: 543.5px;
+top: 834px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 45px;
+/* identical to box height */
+
+color: #3442B5;
+
+
+
+/* Line 26 */
+
+position: absolute;
+width: 360px;
+height: 0px;
+left: 927.5px;
+top: 852px;
+
+border: 1px solid #DEDEDE;
+
+
+/* Line 27 */
+
+position: absolute;
+width: 360px;
+height: 0px;
+left: 149.5px;
+top: 852px;
+
+border: 1px solid #DEDEDE;
+
+
+/* Ver todos */
+
+position: absolute;
+width: 74px;
+height: 23px;
+left: 681.5px;
+top: 883px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+text-align: center;
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* tags */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 1280px;
+height: 40px;
+left: 79.5px;
+top: 883px;
+
+
+
+/* Frame 2357 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 58px;
+gap: 10px;
+
+width: 214.17px;
+height: 40px;
+
+background: #FFFFFF;
+border: 1px solid #BDBDBD;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+margin: 0px -1px;
+
+
+/* celular */
+
+width: 70px;
+height: 16px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #3442B5;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2358 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 58px;
+gap: 10px;
+
+width: 214.17px;
+height: 40px;
+
+background: #FFFFFF;
+border: 1px solid #BDBDBD;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+margin: 0px -1px;
+
+
+/* acessórios */
+
+width: 99px;
+height: 16px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #3B3B3B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2359 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 58px;
+gap: 10px;
+
+width: 214.17px;
+height: 40px;
+
+background: #FFFFFF;
+border: 1px solid #BDBDBD;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 1;
+margin: 0px -1px;
+
+
+/* tablets */
+
+width: 63px;
+height: 16px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #3B3B3B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2360 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 58px;
+gap: 10px;
+
+width: 214.17px;
+height: 40px;
+
+background: #FFFFFF;
+border: 1px solid #BDBDBD;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 1;
+margin: 0px -1px;
+
+
+/* NOTEBOOKS */
+
+width: 95px;
+height: 16px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #3B3B3B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2361 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 58px;
+gap: 10px;
+
+width: 214.17px;
+height: 40px;
+
+background: #FFFFFF;
+border: 1px solid #BDBDBD;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 1;
+margin: 0px -1px;
+
+
+/* TVs */
+
+width: 29px;
+height: 16px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #3B3B3B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2362 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 58px;
+gap: 10px;
+
+width: 214.17px;
+height: 40px;
+
+background: #FFFFFF;
+border: 1px solid #BDBDBD;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 1;
+
+
+/* Ver todos */
+
+width: 88px;
+height: 16px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #3B3B3B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* vitrine */
+
+position: absolute;
+width: 1364px;
+height: 500px;
+left: 37.5px;
+top: 947px;
+
+
+
+/* Frame 2368 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 18px;
+
+position: absolute;
+width: 1270px;
+height: 500px;
+left: calc(50% - 1270px/2 - 0.5px);
+top: 947px;
+
+
+
+/* card */
+
+width: 304px;
+height: 500px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 1449 */
+
+position: absolute;
+width: 304px;
+height: 500px;
+left: 0px;
+top: 0px;
+
+
+
+/* Rectangle 270 */
+
+position: absolute;
+left: 0%;
+right: 76.06%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+box-shadow: 0px 3px 19px rgba(0, 0, 0, 0.22);
+border-radius: 10px;
+
+
+/* produto 4 */
+
+position: absolute;
+left: 0.98%;
+right: 77.13%;
+top: 3.4%;
+bottom: 3.2%;
+
+
+
+/* Rectangle 266 */
+
+position: absolute;
+left: 1.42%;
+right: 77.3%;
+top: 3.4%;
+bottom: 5.6%;
+
+background: #FFFFFF;
+
+
+/* produto */
+
+position: absolute;
+left: 0.98%;
+right: 77.13%;
+top: 4.4%;
+bottom: 3.2%;
+
+
+
+/* Rectangle 265 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 1.42%;
+right: 77.3%;
+top: 4.4%;
+bottom: 47.6%;
+
+background: #FFFFFF;
+
+
+/* bt */
+
+position: absolute;
+left: 0.98%;
+right: 77.3%;
+top: 88%;
+bottom: 3.2%;
+
+
+
+/* bt comprar */
+
+position: absolute;
+left: 0.98%;
+right: 77.3%;
+top: 88%;
+bottom: 3.2%;
+
+
+
+/* Rectangle 267 */
+
+position: absolute;
+left: 0.98%;
+right: 77.3%;
+top: 88%;
+bottom: 3.2%;
+
+/* Azul */
+background: #3442B5;
+border-radius: 4px;
+
+
+/* Comprar */
+
+position: absolute;
+left: 6.86%;
+right: 83.05%;
+top: 90.82%;
+bottom: 5.49%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* produto */
+
+position: absolute;
+left: 0.98%;
+right: 77.13%;
+top: 6.4%;
+bottom: 23.4%;
+
+
+
+/* Grupo de máscara 20 1 */
+
+position: absolute;
+left: 0.98%;
+right: 77.13%;
+top: 6.4%;
+bottom: 48%;
+
+background: url(xicara-de-cha-atrapasuenos-21131361-1 1);
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. */
+
+position: absolute;
+left: 0.98%;
+right: 77.3%;
+top: 53.8%;
+bottom: 37%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* preco */
+
+position: absolute;
+left: 0.98%;
+right: 91.4%;
+top: 65.4%;
+bottom: 23.4%;
+
+
+
+/* R$ 28,90 */
+
+position: absolute;
+left: 0.98%;
+right: 91.4%;
+top: 70.6%;
+bottom: 23.4%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* R$ 30,90 */
+
+position: absolute;
+left: 0.98%;
+right: 93.08%;
+top: 65.4%;
+bottom: 29.8%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-decoration-line: line-through;
+
+color: #808080;
+
+
+
+/* ou 2x de R$ 49,95 sem juros */
+
+position: absolute;
+width: 186.9px;
+height: 18px;
+left: 12.39px;
+top: 385px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* Frete grátis */
+
+position: absolute;
+width: 76.56px;
+height: 18px;
+left: 12.39px;
+top: 410px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+color: #3442B5;
+
+
+
+/* card */
+
+width: 304px;
+height: 500px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Group 1449 */
+
+position: absolute;
+width: 304px;
+height: 500px;
+left: 322px;
+top: 0px;
+
+
+
+/* Rectangle 270 */
+
+position: absolute;
+left: 25.35%;
+right: 50.71%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+box-shadow: 0px 3px 19px rgba(0, 0, 0, 0.22);
+border-radius: 10px;
+
+
+/* produto 4 */
+
+position: absolute;
+left: 26.33%;
+right: 51.77%;
+top: 3.4%;
+bottom: 3.2%;
+
+
+
+/* Rectangle 266 */
+
+position: absolute;
+left: 26.77%;
+right: 51.95%;
+top: 3.4%;
+bottom: 5.6%;
+
+background: #FFFFFF;
+
+
+/* produto */
+
+position: absolute;
+left: 26.33%;
+right: 51.77%;
+top: 4.4%;
+bottom: 3.2%;
+
+
+
+/* Rectangle 265 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 26.77%;
+right: 51.95%;
+top: 4.4%;
+bottom: 47.6%;
+
+background: #FFFFFF;
+
+
+/* bt */
+
+position: absolute;
+left: 26.33%;
+right: 51.95%;
+top: 88%;
+bottom: 3.2%;
+
+
+
+/* bt comprar */
+
+position: absolute;
+left: 26.33%;
+right: 51.95%;
+top: 88%;
+bottom: 3.2%;
+
+
+
+/* Rectangle 267 */
+
+position: absolute;
+left: 26.33%;
+right: 51.95%;
+top: 88%;
+bottom: 3.2%;
+
+/* Azul */
+background: #3442B5;
+border-radius: 4px;
+
+
+/* Comprar */
+
+position: absolute;
+left: 32.22%;
+right: 57.7%;
+top: 90.82%;
+bottom: 5.49%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* produto */
+
+position: absolute;
+left: 26.33%;
+right: 51.77%;
+top: 6.4%;
+bottom: 23.4%;
+
+
+
+/* Grupo de máscara 20 1 */
+
+position: absolute;
+left: 26.33%;
+right: 51.77%;
+top: 6.4%;
+bottom: 48%;
+
+background: url(xicara-de-cha-atrapasuenos-21131361-1 1);
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. */
+
+position: absolute;
+left: 26.33%;
+right: 51.95%;
+top: 53.8%;
+bottom: 37%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* preco */
+
+position: absolute;
+left: 26.33%;
+right: 66.05%;
+top: 65.4%;
+bottom: 23.4%;
+
+
+
+/* R$ 28,90 */
+
+position: absolute;
+left: 26.33%;
+right: 66.05%;
+top: 70.6%;
+bottom: 23.4%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* R$ 30,90 */
+
+position: absolute;
+left: 26.33%;
+right: 67.73%;
+top: 65.4%;
+bottom: 29.8%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-decoration-line: line-through;
+
+color: #808080;
+
+
+
+/* ou 2x de R$ 49,95 sem juros */
+
+position: absolute;
+width: 186.9px;
+height: 18px;
+left: 334.39px;
+top: 385px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* Frete grátis */
+
+position: absolute;
+width: 76.56px;
+height: 18px;
+left: 334.39px;
+top: 410px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+color: #3442B5;
+
+
+
+/* card */
+
+width: 304px;
+height: 500px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Group 1449 */
+
+position: absolute;
+width: 304px;
+height: 500px;
+left: 644px;
+top: 0px;
+
+
+
+/* Rectangle 270 */
+
+position: absolute;
+left: 50.71%;
+right: 25.35%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+box-shadow: 0px 3px 19px rgba(0, 0, 0, 0.22);
+border-radius: 10px;
+
+
+/* produto 4 */
+
+position: absolute;
+left: 51.68%;
+right: 26.42%;
+top: 3.4%;
+bottom: 3.2%;
+
+
+
+/* Rectangle 266 */
+
+position: absolute;
+left: 52.13%;
+right: 26.6%;
+top: 3.4%;
+bottom: 5.6%;
+
+background: #FFFFFF;
+
+
+/* produto */
+
+position: absolute;
+left: 51.68%;
+right: 26.42%;
+top: 4.4%;
+bottom: 3.2%;
+
+
+
+/* Rectangle 265 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 52.13%;
+right: 26.6%;
+top: 4.4%;
+bottom: 47.6%;
+
+background: #FFFFFF;
+
+
+/* bt */
+
+position: absolute;
+left: 51.68%;
+right: 26.6%;
+top: 88%;
+bottom: 3.2%;
+
+
+
+/* bt comprar */
+
+position: absolute;
+left: 51.68%;
+right: 26.6%;
+top: 88%;
+bottom: 3.2%;
+
+
+
+/* Rectangle 267 */
+
+position: absolute;
+left: 51.68%;
+right: 26.6%;
+top: 88%;
+bottom: 3.2%;
+
+/* Azul */
+background: #3442B5;
+border-radius: 4px;
+
+
+/* Comprar */
+
+position: absolute;
+left: 57.57%;
+right: 32.34%;
+top: 90.82%;
+bottom: 5.49%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* produto */
+
+position: absolute;
+left: 51.68%;
+right: 26.42%;
+top: 6.4%;
+bottom: 23.4%;
+
+
+
+/* Grupo de máscara 20 1 */
+
+position: absolute;
+left: 51.68%;
+right: 26.42%;
+top: 6.4%;
+bottom: 48%;
+
+background: url(xicara-de-cha-atrapasuenos-21131361-1 1);
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. */
+
+position: absolute;
+left: 51.68%;
+right: 26.6%;
+top: 53.8%;
+bottom: 37%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* preco */
+
+position: absolute;
+left: 51.68%;
+right: 40.69%;
+top: 65.4%;
+bottom: 23.4%;
+
+
+
+/* R$ 28,90 */
+
+position: absolute;
+left: 51.68%;
+right: 40.69%;
+top: 70.6%;
+bottom: 23.4%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* R$ 30,90 */
+
+position: absolute;
+left: 51.68%;
+right: 42.38%;
+top: 65.4%;
+bottom: 29.8%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-decoration-line: line-through;
+
+color: #808080;
+
+
+
+/* ou 2x de R$ 49,95 sem juros */
+
+position: absolute;
+width: 186.9px;
+height: 18px;
+left: 656.39px;
+top: 385px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* Frete grátis */
+
+position: absolute;
+width: 76.56px;
+height: 18px;
+left: 656.39px;
+top: 410px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+color: #3442B5;
+
+
+
+/* card */
+
+width: 304px;
+height: 500px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Group 1449 */
+
+position: absolute;
+width: 304px;
+height: 500px;
+left: 966px;
+top: 0px;
+
+
+
+/* Rectangle 270 */
+
+position: absolute;
+left: 76.06%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+box-shadow: 0px 3px 19px rgba(0, 0, 0, 0.22);
+border-radius: 10px;
+
+
+/* produto 4 */
+
+position: absolute;
+left: 77.04%;
+right: 1.06%;
+top: 3.4%;
+bottom: 3.2%;
+
+
+
+/* Rectangle 266 */
+
+position: absolute;
+left: 77.48%;
+right: 1.24%;
+top: 3.4%;
+bottom: 5.6%;
+
+background: #FFFFFF;
+
+
+/* produto */
+
+position: absolute;
+left: 77.04%;
+right: 1.06%;
+top: 4.4%;
+bottom: 3.2%;
+
+
+
+/* Rectangle 265 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 77.48%;
+right: 1.24%;
+top: 4.4%;
+bottom: 47.6%;
+
+background: #FFFFFF;
+
+
+/* bt */
+
+position: absolute;
+left: 77.04%;
+right: 1.24%;
+top: 88%;
+bottom: 3.2%;
+
+
+
+/* bt comprar */
+
+position: absolute;
+left: 77.04%;
+right: 1.24%;
+top: 88%;
+bottom: 3.2%;
+
+
+
+/* Rectangle 267 */
+
+position: absolute;
+left: 77.04%;
+right: 1.24%;
+top: 88%;
+bottom: 3.2%;
+
+/* Azul */
+background: #3442B5;
+border-radius: 4px;
+
+
+/* Comprar */
+
+position: absolute;
+left: 82.92%;
+right: 6.99%;
+top: 90.82%;
+bottom: 5.49%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* produto */
+
+position: absolute;
+left: 77.04%;
+right: 1.06%;
+top: 6.4%;
+bottom: 23.4%;
+
+
+
+/* Grupo de máscara 20 1 */
+
+position: absolute;
+left: 77.04%;
+right: 1.06%;
+top: 6.4%;
+bottom: 48%;
+
+background: url(xicara-de-cha-atrapasuenos-21131361-1 1);
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. */
+
+position: absolute;
+left: 77.04%;
+right: 1.24%;
+top: 53.8%;
+bottom: 37%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* preco */
+
+position: absolute;
+left: 77.04%;
+right: 15.34%;
+top: 65.4%;
+bottom: 23.4%;
+
+
+
+/* R$ 28,90 */
+
+position: absolute;
+left: 77.04%;
+right: 15.34%;
+top: 70.6%;
+bottom: 23.4%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* R$ 30,90 */
+
+position: absolute;
+left: 77.04%;
+right: 17.02%;
+top: 65.4%;
+bottom: 29.8%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-decoration-line: line-through;
+
+color: #808080;
+
+
+
+/* ou 2x de R$ 49,95 sem juros */
+
+position: absolute;
+width: 186.9px;
+height: 18px;
+left: 978.39px;
+top: 385px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* Frete grátis */
+
+position: absolute;
+width: 76.56px;
+height: 18px;
+left: 978.39px;
+top: 410px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+color: #3442B5;
+
+
+
+/* Frame 2369 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+gap: 1300px;
+
+position: absolute;
+width: 1364px;
+height: 32px;
+left: calc(50% - 1364px/2 - 0.5px);
+top: 1193px;
+
+
+
+/* Group 2411 */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 49 */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Vector */
+
+position: absolute;
+width: 7.47px;
+height: 12.8px;
+left: 10.67px;
+top: 9.6px;
+
+/* Preto */
+background: #3F3F40;
+
+
+/* Group 2412 */
+
+width: 32px;
+height: 32px;
+
+transform: rotate(180deg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse 49 */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 1332px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+transform: rotate(180deg);
+
+
+/* Vector */
+
+position: absolute;
+width: 7.47px;
+height: 12.8px;
+left: 1345.87px;
+top: 9.6px;
+
+/* Preto */
+background: #3F3F40;
+transform: rotate(180deg);
+
+
+/* banner apoio 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 13px;
+
+position: absolute;
+width: 1281px;
+height: 350px;
+left: 79px;
+top: 1537px;
+
+
+
+/* banner 1 */
+
+width: 634px;
+height: 350px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Mask Group */
+
+position: absolute;
+width: 634px;
+height: 350px;
+left: 0px;
+top: 0px;
+
+
+
+/* Rectangle 239 */
+
+position: absolute;
+width: 634px;
+height: 350px;
+left: 0px;
+top: 0px;
+
+background: #C4C4C4;
+border-radius: 20px;
+
+
+/* image 45 */
+
+position: absolute;
+width: 831.71px;
+height: 503px;
+left: -99.41px;
+top: -45px;
+
+background: url(01-);
+
+
+/* Rectangle 107 */
+
+position: absolute;
+width: 634px;
+height: 261px;
+left: 0px;
+top: 89px;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 85.04%);
+mix-blend-mode: normal;
+opacity: 0.8;
+border-radius: 0px 0px 20px 20px;
+
+
+/* Parceiros */
+
+position: absolute;
+width: 216.49px;
+height: 60px;
+left: 44.18px;
+top: 114px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 60px;
+/* identical to box height */
+
+/* WHITE */
+color: #FFFFFF;
+
+
+
+/* Group 663 */
+
+position: absolute;
+width: 144.69px;
+height: 48px;
+left: 44.18px;
+top: 262px;
+
+
+
+/* Rectangle 229 */
+
+position: absolute;
+width: 144.69px;
+height: 48px;
+left: 44.18px;
+top: 262px;
+
+/* Amarelo */
+background: #F7CA11;
+border-radius: 6px;
+
+
+/* Confira */
+
+position: absolute;
+width: 91.68px;
+height: 24px;
+left: 70.69px;
+top: 274px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.08em;
+text-transform: uppercase;
+
+/* Roxo */
+color: #271C47;
+
+
+
+/* Lorem ipsum dolor sit amet, consectetur */
+
+position: absolute;
+width: 199.92px;
+height: 48px;
+left: 44.18px;
+top: 182px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+/* WHITE */
+color: #FFFFFF;
+
+
+
+/* banner 2 */
+
+width: 634px;
+height: 350px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Mask Group */
+
+position: absolute;
+width: 634px;
+height: 350px;
+left: 647px;
+top: 0px;
+
+
+
+/* Rectangle 239 */
+
+position: absolute;
+width: 634px;
+height: 350px;
+left: 647px;
+top: 0px;
+
+background: #C4C4C4;
+border-radius: 20px;
+
+
+/* image 45 */
+
+position: absolute;
+width: 831.71px;
+height: 503px;
+left: 547.59px;
+top: -45px;
+
+background: url(01-);
+
+
+/* Rectangle 107 */
+
+position: absolute;
+width: 634px;
+height: 261px;
+left: 647px;
+top: 89px;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 85.04%);
+mix-blend-mode: normal;
+opacity: 0.8;
+border-radius: 0px 0px 20px 20px;
+
+
+/* Parceiros */
+
+position: absolute;
+width: 216.49px;
+height: 60px;
+left: 691.18px;
+top: 114px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 60px;
+/* identical to box height */
+
+/* WHITE */
+color: #FFFFFF;
+
+
+
+/* Group 663 */
+
+position: absolute;
+width: 144.69px;
+height: 48px;
+left: 691.18px;
+top: 262px;
+
+
+
+/* Rectangle 229 */
+
+position: absolute;
+width: 144.69px;
+height: 48px;
+left: 691.18px;
+top: 262px;
+
+/* Amarelo */
+background: #F7CA11;
+border-radius: 6px;
+
+
+/* Confira */
+
+position: absolute;
+width: 91.68px;
+height: 24px;
+left: 717.69px;
+top: 274px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.08em;
+text-transform: uppercase;
+
+/* Roxo */
+color: #271C47;
+
+
+
+/* Lorem ipsum dolor sit amet, consectetur */
+
+position: absolute;
+width: 199.92px;
+height: 48px;
+left: 691.18px;
+top: 182px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+/* WHITE */
+color: #FFFFFF;
+
+
+
+/* vitrine 2 */
+
+position: absolute;
+width: 1364px;
+height: 597px;
+left: 37.5px;
+top: 1977px;
+
+
+
+/* Group 1169 */
+
+position: absolute;
+left: 10.45%;
+right: 10.52%;
+top: 42.42%;
+bottom: 56.03%;
+
+
+
+/* titulo */
+
+position: absolute;
+left: 10.45%;
+right: 10.52%;
+top: 42.42%;
+bottom: 56.61%;
+
+
+
+/* Group 866 */
+
+position: absolute;
+left: 10.45%;
+right: 10.52%;
+top: 42.42%;
+bottom: 56.61%;
+
+
+
+/* Produtos relacionados */
+
+position: absolute;
+width: 350px;
+height: 45px;
+left: 544.5px;
+top: 1977px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 45px;
+/* identical to box height */
+
+/* Azul */
+color: #3442B5;
+
+
+
+/* Line 26 */
+
+position: absolute;
+width: 360px;
+height: 0px;
+left: 928.5px;
+top: 1995px;
+
+border: 1px solid #DEDEDE;
+
+
+/* Line 27 */
+
+position: absolute;
+width: 360px;
+height: 0px;
+left: 150.5px;
+top: 1995px;
+
+border: 1px solid #DEDEDE;
+
+
+/* Ver todos */
+
+position: absolute;
+width: 74px;
+height: 23px;
+left: 682.5px;
+top: 2026px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+text-align: center;
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* vitrine */
+
+position: absolute;
+width: 1364px;
+height: 501px;
+left: 37.5px;
+top: 2073px;
+
+
+
+/* Frame 2368 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 18px;
+
+position: absolute;
+width: 1270px;
+height: 501px;
+left: calc(50% - 1270px/2 - 0.5px);
+top: 2073px;
+
+
+
+/* card */
+
+width: 304px;
+height: 500px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 1449 */
+
+position: absolute;
+width: 304px;
+height: 500px;
+left: 0px;
+top: 0.5px;
+
+
+
+/* Rectangle 270 */
+
+position: absolute;
+left: 0%;
+right: 76.06%;
+top: 0.1%;
+bottom: 0.1%;
+
+background: #FFFFFF;
+box-shadow: 0px 3px 19px rgba(0, 0, 0, 0.22);
+border-radius: 10px;
+
+
+/* produto 4 */
+
+position: absolute;
+left: 0.98%;
+right: 77.13%;
+top: 3.49%;
+bottom: 3.29%;
+
+
+
+/* Rectangle 266 */
+
+position: absolute;
+left: 1.42%;
+right: 77.3%;
+top: 3.49%;
+bottom: 5.69%;
+
+background: #FFFFFF;
+
+
+/* produto */
+
+position: absolute;
+left: 0.98%;
+right: 77.13%;
+top: 4.49%;
+bottom: 3.29%;
+
+
+
+/* Rectangle 265 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 1.42%;
+right: 77.3%;
+top: 4.49%;
+bottom: 47.6%;
+
+background: #FFFFFF;
+
+
+/* bt */
+
+position: absolute;
+left: 0.98%;
+right: 77.3%;
+top: 87.92%;
+bottom: 3.29%;
+
+
+
+/* bt comprar */
+
+position: absolute;
+left: 0.98%;
+right: 77.3%;
+top: 87.92%;
+bottom: 3.29%;
+
+
+
+/* Rectangle 267 */
+
+position: absolute;
+left: 0.98%;
+right: 77.3%;
+top: 87.92%;
+bottom: 3.29%;
+
+/* Azul */
+background: #3442B5;
+border-radius: 4px;
+
+
+/* Comprar */
+
+position: absolute;
+left: 6.86%;
+right: 83.05%;
+top: 90.73%;
+bottom: 5.58%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* produto */
+
+position: absolute;
+left: 0.98%;
+right: 77.13%;
+top: 6.49%;
+bottom: 23.45%;
+
+
+
+/* Grupo de máscara 20 1 */
+
+position: absolute;
+left: 0.98%;
+right: 77.13%;
+top: 6.49%;
+bottom: 48%;
+
+background: url(xicara-de-cha-atrapasuenos-21131361-1 1);
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. */
+
+position: absolute;
+left: 0.98%;
+right: 77.3%;
+top: 53.79%;
+bottom: 37.03%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* preco */
+
+position: absolute;
+left: 0.98%;
+right: 91.4%;
+top: 65.37%;
+bottom: 23.45%;
+
+
+
+/* R$ 28,90 */
+
+position: absolute;
+left: 0.98%;
+right: 91.4%;
+top: 70.56%;
+bottom: 23.45%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* R$ 30,90 */
+
+position: absolute;
+left: 0.98%;
+right: 93.08%;
+top: 65.37%;
+bottom: 29.84%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-decoration-line: line-through;
+
+color: #808080;
+
+
+
+/* ou 2x de R$ 49,95 sem juros */
+
+position: absolute;
+width: 186.9px;
+height: 18px;
+left: 12.39px;
+top: 385.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* Frete grátis */
+
+position: absolute;
+width: 76.56px;
+height: 18px;
+left: 12.39px;
+top: 410.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+color: #3442B5;
+
+
+
+/* card */
+
+width: 304px;
+height: 500px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Group 1449 */
+
+position: absolute;
+width: 304px;
+height: 500px;
+left: 322px;
+top: 0.5px;
+
+
+
+/* Rectangle 270 */
+
+position: absolute;
+left: 25.35%;
+right: 50.71%;
+top: 0.1%;
+bottom: 0.1%;
+
+background: #FFFFFF;
+box-shadow: 0px 3px 19px rgba(0, 0, 0, 0.22);
+border-radius: 10px;
+
+
+/* produto 4 */
+
+position: absolute;
+left: 26.33%;
+right: 51.77%;
+top: 3.49%;
+bottom: 3.29%;
+
+
+
+/* Rectangle 266 */
+
+position: absolute;
+left: 26.77%;
+right: 51.95%;
+top: 3.49%;
+bottom: 5.69%;
+
+background: #FFFFFF;
+
+
+/* produto */
+
+position: absolute;
+left: 26.33%;
+right: 51.77%;
+top: 4.49%;
+bottom: 3.29%;
+
+
+
+/* Rectangle 265 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 26.77%;
+right: 51.95%;
+top: 4.49%;
+bottom: 47.6%;
+
+background: #FFFFFF;
+
+
+/* bt */
+
+position: absolute;
+left: 26.33%;
+right: 51.95%;
+top: 87.92%;
+bottom: 3.29%;
+
+
+
+/* bt comprar */
+
+position: absolute;
+left: 26.33%;
+right: 51.95%;
+top: 87.92%;
+bottom: 3.29%;
+
+
+
+/* Rectangle 267 */
+
+position: absolute;
+left: 26.33%;
+right: 51.95%;
+top: 87.92%;
+bottom: 3.29%;
+
+/* Azul */
+background: #3442B5;
+border-radius: 4px;
+
+
+/* Comprar */
+
+position: absolute;
+left: 32.22%;
+right: 57.7%;
+top: 90.73%;
+bottom: 5.58%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* produto */
+
+position: absolute;
+left: 26.33%;
+right: 51.77%;
+top: 6.49%;
+bottom: 23.45%;
+
+
+
+/* Grupo de máscara 20 1 */
+
+position: absolute;
+left: 26.33%;
+right: 51.77%;
+top: 6.49%;
+bottom: 48%;
+
+background: url(xicara-de-cha-atrapasuenos-21131361-1 1);
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. */
+
+position: absolute;
+left: 26.33%;
+right: 51.95%;
+top: 53.79%;
+bottom: 37.03%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* preco */
+
+position: absolute;
+left: 26.33%;
+right: 66.05%;
+top: 65.37%;
+bottom: 23.45%;
+
+
+
+/* R$ 28,90 */
+
+position: absolute;
+left: 26.33%;
+right: 66.05%;
+top: 70.56%;
+bottom: 23.45%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* R$ 30,90 */
+
+position: absolute;
+left: 26.33%;
+right: 67.73%;
+top: 65.37%;
+bottom: 29.84%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-decoration-line: line-through;
+
+color: #808080;
+
+
+
+/* ou 2x de R$ 49,95 sem juros */
+
+position: absolute;
+width: 186.9px;
+height: 18px;
+left: 334.39px;
+top: 385.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* Frete grátis */
+
+position: absolute;
+width: 76.56px;
+height: 18px;
+left: 334.39px;
+top: 410.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+color: #3442B5;
+
+
+
+/* card */
+
+width: 304px;
+height: 500px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Group 1449 */
+
+position: absolute;
+width: 304px;
+height: 500px;
+left: 644px;
+top: 0.5px;
+
+
+
+/* Rectangle 270 */
+
+position: absolute;
+left: 50.71%;
+right: 25.35%;
+top: 0.1%;
+bottom: 0.1%;
+
+background: #FFFFFF;
+box-shadow: 0px 3px 19px rgba(0, 0, 0, 0.22);
+border-radius: 10px;
+
+
+/* produto 4 */
+
+position: absolute;
+left: 51.68%;
+right: 26.42%;
+top: 3.49%;
+bottom: 3.29%;
+
+
+
+/* Rectangle 266 */
+
+position: absolute;
+left: 52.13%;
+right: 26.6%;
+top: 3.49%;
+bottom: 5.69%;
+
+background: #FFFFFF;
+
+
+/* produto */
+
+position: absolute;
+left: 51.68%;
+right: 26.42%;
+top: 4.49%;
+bottom: 3.29%;
+
+
+
+/* Rectangle 265 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 52.13%;
+right: 26.6%;
+top: 4.49%;
+bottom: 47.6%;
+
+background: #FFFFFF;
+
+
+/* bt */
+
+position: absolute;
+left: 51.68%;
+right: 26.6%;
+top: 87.92%;
+bottom: 3.29%;
+
+
+
+/* bt comprar */
+
+position: absolute;
+left: 51.68%;
+right: 26.6%;
+top: 87.92%;
+bottom: 3.29%;
+
+
+
+/* Rectangle 267 */
+
+position: absolute;
+left: 51.68%;
+right: 26.6%;
+top: 87.92%;
+bottom: 3.29%;
+
+/* Azul */
+background: #3442B5;
+border-radius: 4px;
+
+
+/* Comprar */
+
+position: absolute;
+left: 57.57%;
+right: 32.34%;
+top: 90.73%;
+bottom: 5.58%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* produto */
+
+position: absolute;
+left: 51.68%;
+right: 26.42%;
+top: 6.49%;
+bottom: 23.45%;
+
+
+
+/* Grupo de máscara 20 1 */
+
+position: absolute;
+left: 51.68%;
+right: 26.42%;
+top: 6.49%;
+bottom: 48%;
+
+background: url(xicara-de-cha-atrapasuenos-21131361-1 1);
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. */
+
+position: absolute;
+left: 51.68%;
+right: 26.6%;
+top: 53.79%;
+bottom: 37.03%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* preco */
+
+position: absolute;
+left: 51.68%;
+right: 40.69%;
+top: 65.37%;
+bottom: 23.45%;
+
+
+
+/* R$ 28,90 */
+
+position: absolute;
+left: 51.68%;
+right: 40.69%;
+top: 70.56%;
+bottom: 23.45%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* R$ 30,90 */
+
+position: absolute;
+left: 51.68%;
+right: 42.38%;
+top: 65.37%;
+bottom: 29.84%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-decoration-line: line-through;
+
+color: #808080;
+
+
+
+/* ou 2x de R$ 49,95 sem juros */
+
+position: absolute;
+width: 186.9px;
+height: 18px;
+left: 656.39px;
+top: 385.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* Frete grátis */
+
+position: absolute;
+width: 76.56px;
+height: 18px;
+left: 656.39px;
+top: 410.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+color: #3442B5;
+
+
+
+/* card */
+
+width: 304px;
+height: 500px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Group 1449 */
+
+position: absolute;
+width: 304px;
+height: 500px;
+left: 966px;
+top: 0.5px;
+
+
+
+/* Rectangle 270 */
+
+position: absolute;
+left: 76.06%;
+right: 0%;
+top: 0.1%;
+bottom: 0.1%;
+
+background: #FFFFFF;
+box-shadow: 0px 3px 19px rgba(0, 0, 0, 0.22);
+border-radius: 10px;
+
+
+/* produto 4 */
+
+position: absolute;
+left: 77.04%;
+right: 1.06%;
+top: 3.49%;
+bottom: 3.29%;
+
+
+
+/* Rectangle 266 */
+
+position: absolute;
+left: 77.48%;
+right: 1.24%;
+top: 3.49%;
+bottom: 5.69%;
+
+background: #FFFFFF;
+
+
+/* produto */
+
+position: absolute;
+left: 77.04%;
+right: 1.06%;
+top: 4.49%;
+bottom: 3.29%;
+
+
+
+/* Rectangle 265 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 77.48%;
+right: 1.24%;
+top: 4.49%;
+bottom: 47.6%;
+
+background: #FFFFFF;
+
+
+/* bt */
+
+position: absolute;
+left: 77.04%;
+right: 1.24%;
+top: 87.92%;
+bottom: 3.29%;
+
+
+
+/* bt comprar */
+
+position: absolute;
+left: 77.04%;
+right: 1.24%;
+top: 87.92%;
+bottom: 3.29%;
+
+
+
+/* Rectangle 267 */
+
+position: absolute;
+left: 77.04%;
+right: 1.24%;
+top: 87.92%;
+bottom: 3.29%;
+
+/* Azul */
+background: #3442B5;
+border-radius: 4px;
+
+
+/* Comprar */
+
+position: absolute;
+left: 82.92%;
+right: 6.99%;
+top: 90.73%;
+bottom: 5.58%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* produto */
+
+position: absolute;
+left: 77.04%;
+right: 1.06%;
+top: 6.49%;
+bottom: 23.45%;
+
+
+
+/* Grupo de máscara 20 1 */
+
+position: absolute;
+left: 77.04%;
+right: 1.06%;
+top: 6.49%;
+bottom: 48%;
+
+background: url(xicara-de-cha-atrapasuenos-21131361-1 1);
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. */
+
+position: absolute;
+left: 77.04%;
+right: 1.24%;
+top: 53.79%;
+bottom: 37.03%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* preco */
+
+position: absolute;
+left: 77.04%;
+right: 15.34%;
+top: 65.37%;
+bottom: 23.45%;
+
+
+
+/* R$ 28,90 */
+
+position: absolute;
+left: 77.04%;
+right: 15.34%;
+top: 70.56%;
+bottom: 23.45%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* R$ 30,90 */
+
+position: absolute;
+left: 77.04%;
+right: 17.02%;
+top: 65.37%;
+bottom: 29.84%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-decoration-line: line-through;
+
+color: #808080;
+
+
+
+/* ou 2x de R$ 49,95 sem juros */
+
+position: absolute;
+width: 186.9px;
+height: 18px;
+left: 978.39px;
+top: 385.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* Frete grátis */
+
+position: absolute;
+width: 76.56px;
+height: 18px;
+left: 978.39px;
+top: 410.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+color: #3442B5;
+
+
+
+/* Frame 2369 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+gap: 1300px;
+
+position: absolute;
+width: 1364px;
+height: 32.06px;
+left: calc(50% - 1364px/2 - 0.5px);
+top: 2319.49px;
+
+
+
+/* Group 2411 */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 49 */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 0px;
+top: 0.03px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Vector */
+
+position: absolute;
+width: 7.47px;
+height: 12.8px;
+left: 10.67px;
+top: 9.63px;
+
+/* Preto */
+background: #3F3F40;
+
+
+/* Group 2412 */
+
+width: 32px;
+height: 32px;
+
+transform: rotate(180deg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse 49 */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 1332px;
+top: 0.03px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+transform: rotate(180deg);
+
+
+/* Vector */
+
+position: absolute;
+width: 7.47px;
+height: 12.8px;
+left: 1345.87px;
+top: 9.63px;
+
+/* Preto */
+background: #3F3F40;
+transform: rotate(180deg);
+
+
+/* banner apoio 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 13px;
+
+position: absolute;
+width: 1281px;
+height: 350px;
+left: 79px;
+top: 2664px;
+
+
+
+/* banner 3 */
+
+width: 634px;
+height: 350px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Mask Group */
+
+position: absolute;
+width: 634px;
+height: 350px;
+left: 0px;
+top: 0px;
+
+
+
+/* Rectangle 239 */
+
+position: absolute;
+width: 634px;
+height: 350px;
+left: 0px;
+top: 0px;
+
+background: #C4C4C4;
+border-radius: 20px;
+
+
+/* image 45 */
+
+position: absolute;
+width: 831.71px;
+height: 503px;
+left: -99.41px;
+top: -45px;
+
+background: url(01-);
+
+
+/* Rectangle 107 */
+
+position: absolute;
+width: 634px;
+height: 261px;
+left: 0px;
+top: 89px;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 85.04%);
+mix-blend-mode: normal;
+opacity: 0.8;
+border-radius: 0px 0px 20px 20px;
+
+
+/* Parceiros */
+
+position: absolute;
+width: 216.49px;
+height: 60px;
+left: 44.18px;
+top: 114px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 60px;
+/* identical to box height */
+
+/* WHITE */
+color: #FFFFFF;
+
+
+
+/* Group 663 */
+
+position: absolute;
+width: 144.69px;
+height: 48px;
+left: 44.18px;
+top: 262px;
+
+
+
+/* Rectangle 229 */
+
+position: absolute;
+width: 144.69px;
+height: 48px;
+left: 44.18px;
+top: 262px;
+
+/* Amarelo */
+background: #F7CA11;
+border-radius: 6px;
+
+
+/* Confira */
+
+position: absolute;
+width: 91.68px;
+height: 24px;
+left: 70.69px;
+top: 274px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.08em;
+text-transform: uppercase;
+
+/* Roxo */
+color: #271C47;
+
+
+
+/* Lorem ipsum dolor sit amet, consectetur */
+
+position: absolute;
+width: 199.92px;
+height: 48px;
+left: 44.18px;
+top: 182px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+/* WHITE */
+color: #FFFFFF;
+
+
+
+/* banner 4 */
+
+width: 634px;
+height: 350px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Mask Group */
+
+position: absolute;
+width: 634px;
+height: 350px;
+left: 647px;
+top: 0px;
+
+
+
+/* Rectangle 239 */
+
+position: absolute;
+width: 634px;
+height: 350px;
+left: 647px;
+top: 0px;
+
+background: #C4C4C4;
+border-radius: 20px;
+
+
+/* image 45 */
+
+position: absolute;
+width: 831.71px;
+height: 503px;
+left: 547.59px;
+top: -45px;
+
+background: url(01-);
+
+
+/* Rectangle 107 */
+
+position: absolute;
+width: 634px;
+height: 261px;
+left: 647px;
+top: 89px;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 85.04%);
+mix-blend-mode: normal;
+opacity: 0.8;
+border-radius: 0px 0px 20px 20px;
+
+
+/* Parceiros */
+
+position: absolute;
+width: 216.49px;
+height: 60px;
+left: 691.18px;
+top: 114px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 60px;
+/* identical to box height */
+
+/* WHITE */
+color: #FFFFFF;
+
+
+
+/* Group 663 */
+
+position: absolute;
+width: 144.69px;
+height: 48px;
+left: 691.18px;
+top: 262px;
+
+
+
+/* Rectangle 229 */
+
+position: absolute;
+width: 144.69px;
+height: 48px;
+left: 691.18px;
+top: 262px;
+
+/* Amarelo */
+background: #F7CA11;
+border-radius: 6px;
+
+
+/* Confira */
+
+position: absolute;
+width: 91.68px;
+height: 24px;
+left: 717.69px;
+top: 274px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.08em;
+text-transform: uppercase;
+
+/* Roxo */
+color: #271C47;
+
+
+
+/* Lorem ipsum dolor sit amet, consectetur */
+
+position: absolute;
+width: 199.92px;
+height: 48px;
+left: 691.18px;
+top: 182px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+/* WHITE */
+color: #FFFFFF;
+
+
+
+/* compre por marcas */
+
+position: absolute;
+width: 1250px;
+height: 288px;
+left: 94.5px;
+top: 3104px;
+
+
+
+/* Navegue por marcas */
+
+position: absolute;
+width: 1250px;
+height: 45px;
+left: 94.5px;
+top: 3104px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 45px;
+/* identical to box height */
+text-align: center;
+
+/* Azul */
+color: #3442B5;
+
+
+
+/* Frame 2371 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 42px;
+
+position: absolute;
+width: 1223px;
+height: 211px;
+left: calc(50% - 1223px/2 - 7px);
+top: 3181px;
+
+
+
+/* Group 401 */
+
+width: 211px;
+height: 211px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2370 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 87px 47px;
+gap: 10px;
+
+position: absolute;
+width: 211px;
+height: 211px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 7px 20px rgba(0, 0, 0, 0.13);
+border-radius: 105.5px;
+
+
+/* Group 35 */
+
+width: 117px;
+height: 34.76px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Logo */
+
+position: absolute;
+left: 22.27%;
+right: 22.27%;
+top: 41.23%;
+bottom: 42.29%;
+
+
+
+/* Exclude */
+
+position: absolute;
+left: 22.27%;
+right: 61.25%;
+top: 41.23%;
+bottom: 42.29%;
+
+background: #F7CA11;
+
+
+/* Caminho 30 */
+
+position: absolute;
+left: 22.27%;
+right: 61.25%;
+top: 41.23%;
+bottom: 42.29%;
+
+/* Paleta de cores/Amarelo */
+background: #F7CA11;
+
+
+/* Caminho 31 */
+
+position: absolute;
+left: 24.95%;
+right: 69.2%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Paleta de cores/Violeta */
+background: #271C47;
+
+
+/* Caminho 32 */
+
+position: absolute;
+left: 31.45%;
+right: 62.98%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Paleta de cores/Violeta */
+background: #271C47;
+
+
+/* Caminho 33 */
+
+position: absolute;
+left: 37.43%;
+right: 56.62%;
+top: 46.86%;
+bottom: 47.17%;
+
+background: #271C47;
+
+
+/* Caminho 34 */
+
+position: absolute;
+left: 44.41%;
+right: 50.31%;
+top: 46.86%;
+bottom: 47.33%;
+
+background: #271C47;
+
+
+/* Caminho 35 */
+
+position: absolute;
+left: 50.2%;
+right: 43.84%;
+top: 47.02%;
+bottom: 47.33%;
+
+background: #271C47;
+
+
+/* Caminho 36 */
+
+position: absolute;
+left: 56.34%;
+right: 37.81%;
+top: 46.86%;
+bottom: 47.17%;
+
+background: #271C47;
+
+
+/* Caminho 37 */
+
+position: absolute;
+left: 63.21%;
+right: 33.62%;
+top: 46.9%;
+bottom: 47.33%;
+
+background: #271C47;
+
+
+/* Caminho 38 */
+
+position: absolute;
+left: 66.67%;
+right: 28.69%;
+top: 46.86%;
+bottom: 47.17%;
+
+background: #271C47;
+
+
+/* Caminho 39 */
+
+position: absolute;
+left: 71.88%;
+right: 22.27%;
+top: 46.86%;
+bottom: 47.17%;
+
+background: #271C47;
+
+
+/* Grupo 8 */
+
+position: absolute;
+left: 37.43%;
+right: 22.28%;
+top: 46.86%;
+bottom: 47.17%;
+
+
+
+/* Intersect */
+
+position: absolute;
+left: 22.27%;
+right: 61.25%;
+top: 41.23%;
+bottom: 42.29%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 30 */
+
+position: absolute;
+left: 22.27%;
+right: 61.25%;
+top: 41.23%;
+bottom: 42.29%;
+
+/* Paleta de cores/Amarelo */
+background: #F7CA11;
+
+
+/* Caminho 31 */
+
+position: absolute;
+left: 24.95%;
+right: 69.2%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Paleta de cores/Neutras/Background */
+background: #F8F8F8;
+
+
+/* Caminho 32 */
+
+position: absolute;
+left: 31.45%;
+right: 62.98%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Paleta de cores/Neutras/Background */
+background: #F8F8F8;
+
+
+/* Caminho 33 */
+
+position: absolute;
+left: 37.43%;
+right: 56.62%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 34 */
+
+position: absolute;
+left: 44.41%;
+right: 50.31%;
+top: 46.86%;
+bottom: 47.33%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 35 */
+
+position: absolute;
+left: 50.2%;
+right: 43.84%;
+top: 47.02%;
+bottom: 47.33%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 36 */
+
+position: absolute;
+left: 56.34%;
+right: 37.81%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 37 */
+
+position: absolute;
+left: 63.21%;
+right: 33.62%;
+top: 46.9%;
+bottom: 47.33%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 38 */
+
+position: absolute;
+left: 66.67%;
+right: 28.69%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 39 */
+
+position: absolute;
+left: 71.88%;
+right: 22.28%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Group 1171 */
+
+width: 211px;
+height: 211px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2370 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 87px 47px;
+gap: 10px;
+
+position: absolute;
+width: 211px;
+height: 211px;
+left: 253px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 7px 20px rgba(0, 0, 0, 0.13);
+border-radius: 105.5px;
+
+
+/* Group 35 */
+
+width: 117px;
+height: 34.76px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Logo */
+
+position: absolute;
+left: 22.27%;
+right: 22.27%;
+top: 41.23%;
+bottom: 42.29%;
+
+
+
+/* Exclude */
+
+position: absolute;
+left: 22.27%;
+right: 61.25%;
+top: 41.23%;
+bottom: 42.29%;
+
+background: #F7CA11;
+
+
+/* Caminho 30 */
+
+position: absolute;
+left: 22.27%;
+right: 61.25%;
+top: 41.23%;
+bottom: 42.29%;
+
+/* Paleta de cores/Amarelo */
+background: #F7CA11;
+
+
+/* Caminho 31 */
+
+position: absolute;
+left: 24.95%;
+right: 69.2%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Paleta de cores/Violeta */
+background: #271C47;
+
+
+/* Caminho 32 */
+
+position: absolute;
+left: 31.45%;
+right: 62.98%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Paleta de cores/Violeta */
+background: #271C47;
+
+
+/* Caminho 33 */
+
+position: absolute;
+left: 37.43%;
+right: 56.62%;
+top: 46.86%;
+bottom: 47.17%;
+
+background: #271C47;
+
+
+/* Caminho 34 */
+
+position: absolute;
+left: 44.41%;
+right: 50.31%;
+top: 46.86%;
+bottom: 47.33%;
+
+background: #271C47;
+
+
+/* Caminho 35 */
+
+position: absolute;
+left: 50.2%;
+right: 43.84%;
+top: 47.02%;
+bottom: 47.33%;
+
+background: #271C47;
+
+
+/* Caminho 36 */
+
+position: absolute;
+left: 56.34%;
+right: 37.81%;
+top: 46.86%;
+bottom: 47.17%;
+
+background: #271C47;
+
+
+/* Caminho 37 */
+
+position: absolute;
+left: 63.21%;
+right: 33.62%;
+top: 46.9%;
+bottom: 47.33%;
+
+background: #271C47;
+
+
+/* Caminho 38 */
+
+position: absolute;
+left: 66.67%;
+right: 28.69%;
+top: 46.86%;
+bottom: 47.17%;
+
+background: #271C47;
+
+
+/* Caminho 39 */
+
+position: absolute;
+left: 71.88%;
+right: 22.27%;
+top: 46.86%;
+bottom: 47.17%;
+
+background: #271C47;
+
+
+/* Grupo 8 */
+
+position: absolute;
+left: 37.43%;
+right: 22.28%;
+top: 46.86%;
+bottom: 47.17%;
+
+
+
+/* Intersect */
+
+position: absolute;
+left: 22.27%;
+right: 61.25%;
+top: 41.23%;
+bottom: 42.29%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 30 */
+
+position: absolute;
+left: 22.27%;
+right: 61.25%;
+top: 41.23%;
+bottom: 42.29%;
+
+/* Paleta de cores/Amarelo */
+background: #F7CA11;
+
+
+/* Caminho 31 */
+
+position: absolute;
+left: 24.95%;
+right: 69.2%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Paleta de cores/Neutras/Background */
+background: #F8F8F8;
+
+
+/* Caminho 32 */
+
+position: absolute;
+left: 31.45%;
+right: 62.98%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Paleta de cores/Neutras/Background */
+background: #F8F8F8;
+
+
+/* Caminho 33 */
+
+position: absolute;
+left: 37.43%;
+right: 56.62%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 34 */
+
+position: absolute;
+left: 44.41%;
+right: 50.31%;
+top: 46.86%;
+bottom: 47.33%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 35 */
+
+position: absolute;
+left: 50.2%;
+right: 43.84%;
+top: 47.02%;
+bottom: 47.33%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 36 */
+
+position: absolute;
+left: 56.34%;
+right: 37.81%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 37 */
+
+position: absolute;
+left: 63.21%;
+right: 33.62%;
+top: 46.9%;
+bottom: 47.33%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 38 */
+
+position: absolute;
+left: 66.67%;
+right: 28.69%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 39 */
+
+position: absolute;
+left: 71.88%;
+right: 22.28%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Group 1172 */
+
+width: 211px;
+height: 211px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 2370 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 87px 47px;
+gap: 10px;
+
+position: absolute;
+width: 211px;
+height: 211px;
+left: 506px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 7px 20px rgba(0, 0, 0, 0.13);
+border-radius: 105.5px;
+
+
+/* Group 35 */
+
+width: 117px;
+height: 34.76px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Logo */
+
+position: absolute;
+left: 22.27%;
+right: 22.27%;
+top: 41.23%;
+bottom: 42.29%;
+
+
+
+/* Exclude */
+
+position: absolute;
+left: 22.27%;
+right: 61.25%;
+top: 41.23%;
+bottom: 42.29%;
+
+background: #F7CA11;
+
+
+/* Caminho 30 */
+
+position: absolute;
+left: 22.27%;
+right: 61.25%;
+top: 41.23%;
+bottom: 42.29%;
+
+/* Paleta de cores/Amarelo */
+background: #F7CA11;
+
+
+/* Caminho 31 */
+
+position: absolute;
+left: 24.95%;
+right: 69.2%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Paleta de cores/Violeta */
+background: #271C47;
+
+
+/* Caminho 32 */
+
+position: absolute;
+left: 31.45%;
+right: 62.98%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Paleta de cores/Violeta */
+background: #271C47;
+
+
+/* Caminho 33 */
+
+position: absolute;
+left: 37.43%;
+right: 56.62%;
+top: 46.86%;
+bottom: 47.17%;
+
+background: #271C47;
+
+
+/* Caminho 34 */
+
+position: absolute;
+left: 44.41%;
+right: 50.31%;
+top: 46.86%;
+bottom: 47.33%;
+
+background: #271C47;
+
+
+/* Caminho 35 */
+
+position: absolute;
+left: 50.2%;
+right: 43.84%;
+top: 47.02%;
+bottom: 47.33%;
+
+background: #271C47;
+
+
+/* Caminho 36 */
+
+position: absolute;
+left: 56.34%;
+right: 37.81%;
+top: 46.86%;
+bottom: 47.17%;
+
+background: #271C47;
+
+
+/* Caminho 37 */
+
+position: absolute;
+left: 63.21%;
+right: 33.62%;
+top: 46.9%;
+bottom: 47.33%;
+
+background: #271C47;
+
+
+/* Caminho 38 */
+
+position: absolute;
+left: 66.67%;
+right: 28.69%;
+top: 46.86%;
+bottom: 47.17%;
+
+background: #271C47;
+
+
+/* Caminho 39 */
+
+position: absolute;
+left: 71.88%;
+right: 22.27%;
+top: 46.86%;
+bottom: 47.17%;
+
+background: #271C47;
+
+
+/* Grupo 8 */
+
+position: absolute;
+left: 37.43%;
+right: 22.28%;
+top: 46.86%;
+bottom: 47.17%;
+
+
+
+/* Intersect */
+
+position: absolute;
+left: 22.27%;
+right: 61.25%;
+top: 41.23%;
+bottom: 42.29%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 30 */
+
+position: absolute;
+left: 22.27%;
+right: 61.25%;
+top: 41.23%;
+bottom: 42.29%;
+
+/* Paleta de cores/Amarelo */
+background: #F7CA11;
+
+
+/* Caminho 31 */
+
+position: absolute;
+left: 24.95%;
+right: 69.2%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Paleta de cores/Neutras/Background */
+background: #F8F8F8;
+
+
+/* Caminho 32 */
+
+position: absolute;
+left: 31.45%;
+right: 62.98%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Paleta de cores/Neutras/Background */
+background: #F8F8F8;
+
+
+/* Caminho 33 */
+
+position: absolute;
+left: 37.43%;
+right: 56.62%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 34 */
+
+position: absolute;
+left: 44.41%;
+right: 50.31%;
+top: 46.86%;
+bottom: 47.33%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 35 */
+
+position: absolute;
+left: 50.2%;
+right: 43.84%;
+top: 47.02%;
+bottom: 47.33%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 36 */
+
+position: absolute;
+left: 56.34%;
+right: 37.81%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 37 */
+
+position: absolute;
+left: 63.21%;
+right: 33.62%;
+top: 46.9%;
+bottom: 47.33%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 38 */
+
+position: absolute;
+left: 66.67%;
+right: 28.69%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 39 */
+
+position: absolute;
+left: 71.88%;
+right: 22.28%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Group 1173 */
+
+width: 211px;
+height: 211px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Frame 2370 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 87px 47px;
+gap: 10px;
+
+position: absolute;
+width: 211px;
+height: 211px;
+left: 759px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 7px 20px rgba(0, 0, 0, 0.13);
+border-radius: 105.5px;
+
+
+/* Group 35 */
+
+width: 117px;
+height: 34.76px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Logo */
+
+position: absolute;
+left: 22.27%;
+right: 22.27%;
+top: 41.23%;
+bottom: 42.29%;
+
+
+
+/* Exclude */
+
+position: absolute;
+left: 22.27%;
+right: 61.25%;
+top: 41.23%;
+bottom: 42.29%;
+
+background: #F7CA11;
+
+
+/* Caminho 30 */
+
+position: absolute;
+left: 22.27%;
+right: 61.25%;
+top: 41.23%;
+bottom: 42.29%;
+
+/* Paleta de cores/Amarelo */
+background: #F7CA11;
+
+
+/* Caminho 31 */
+
+position: absolute;
+left: 24.95%;
+right: 69.2%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Paleta de cores/Violeta */
+background: #271C47;
+
+
+/* Caminho 32 */
+
+position: absolute;
+left: 31.45%;
+right: 62.98%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Paleta de cores/Violeta */
+background: #271C47;
+
+
+/* Caminho 33 */
+
+position: absolute;
+left: 37.43%;
+right: 56.62%;
+top: 46.86%;
+bottom: 47.17%;
+
+background: #271C47;
+
+
+/* Caminho 34 */
+
+position: absolute;
+left: 44.41%;
+right: 50.31%;
+top: 46.86%;
+bottom: 47.33%;
+
+background: #271C47;
+
+
+/* Caminho 35 */
+
+position: absolute;
+left: 50.2%;
+right: 43.84%;
+top: 47.02%;
+bottom: 47.33%;
+
+background: #271C47;
+
+
+/* Caminho 36 */
+
+position: absolute;
+left: 56.34%;
+right: 37.81%;
+top: 46.86%;
+bottom: 47.17%;
+
+background: #271C47;
+
+
+/* Caminho 37 */
+
+position: absolute;
+left: 63.21%;
+right: 33.62%;
+top: 46.9%;
+bottom: 47.33%;
+
+background: #271C47;
+
+
+/* Caminho 38 */
+
+position: absolute;
+left: 66.67%;
+right: 28.69%;
+top: 46.86%;
+bottom: 47.17%;
+
+background: #271C47;
+
+
+/* Caminho 39 */
+
+position: absolute;
+left: 71.88%;
+right: 22.27%;
+top: 46.86%;
+bottom: 47.17%;
+
+background: #271C47;
+
+
+/* Grupo 8 */
+
+position: absolute;
+left: 37.43%;
+right: 22.28%;
+top: 46.86%;
+bottom: 47.17%;
+
+
+
+/* Intersect */
+
+position: absolute;
+left: 22.27%;
+right: 61.25%;
+top: 41.23%;
+bottom: 42.29%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 30 */
+
+position: absolute;
+left: 22.27%;
+right: 61.25%;
+top: 41.23%;
+bottom: 42.29%;
+
+/* Paleta de cores/Amarelo */
+background: #F7CA11;
+
+
+/* Caminho 31 */
+
+position: absolute;
+left: 24.95%;
+right: 69.2%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Paleta de cores/Neutras/Background */
+background: #F8F8F8;
+
+
+/* Caminho 32 */
+
+position: absolute;
+left: 31.45%;
+right: 62.98%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Paleta de cores/Neutras/Background */
+background: #F8F8F8;
+
+
+/* Caminho 33 */
+
+position: absolute;
+left: 37.43%;
+right: 56.62%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 34 */
+
+position: absolute;
+left: 44.41%;
+right: 50.31%;
+top: 46.86%;
+bottom: 47.33%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 35 */
+
+position: absolute;
+left: 50.2%;
+right: 43.84%;
+top: 47.02%;
+bottom: 47.33%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 36 */
+
+position: absolute;
+left: 56.34%;
+right: 37.81%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 37 */
+
+position: absolute;
+left: 63.21%;
+right: 33.62%;
+top: 46.9%;
+bottom: 47.33%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 38 */
+
+position: absolute;
+left: 66.67%;
+right: 28.69%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 39 */
+
+position: absolute;
+left: 71.88%;
+right: 22.28%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Group 1174 */
+
+width: 211px;
+height: 211px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Frame 2370 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 87px 47px;
+gap: 10px;
+
+position: absolute;
+width: 211px;
+height: 211px;
+left: 1012px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 7px 20px rgba(0, 0, 0, 0.13);
+border-radius: 105.5px;
+
+
+/* Group 35 */
+
+width: 117px;
+height: 34.76px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Logo */
+
+position: absolute;
+left: 22.27%;
+right: 22.27%;
+top: 41.23%;
+bottom: 42.29%;
+
+
+
+/* Exclude */
+
+position: absolute;
+left: 22.27%;
+right: 61.25%;
+top: 41.23%;
+bottom: 42.29%;
+
+background: #F7CA11;
+
+
+/* Caminho 30 */
+
+position: absolute;
+left: 22.27%;
+right: 61.25%;
+top: 41.23%;
+bottom: 42.29%;
+
+/* Paleta de cores/Amarelo */
+background: #F7CA11;
+
+
+/* Caminho 31 */
+
+position: absolute;
+left: 24.95%;
+right: 69.2%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Paleta de cores/Violeta */
+background: #271C47;
+
+
+/* Caminho 32 */
+
+position: absolute;
+left: 31.45%;
+right: 62.98%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Paleta de cores/Violeta */
+background: #271C47;
+
+
+/* Caminho 33 */
+
+position: absolute;
+left: 37.43%;
+right: 56.62%;
+top: 46.86%;
+bottom: 47.17%;
+
+background: #271C47;
+
+
+/* Caminho 34 */
+
+position: absolute;
+left: 44.41%;
+right: 50.31%;
+top: 46.86%;
+bottom: 47.33%;
+
+background: #271C47;
+
+
+/* Caminho 35 */
+
+position: absolute;
+left: 50.2%;
+right: 43.84%;
+top: 47.02%;
+bottom: 47.33%;
+
+background: #271C47;
+
+
+/* Caminho 36 */
+
+position: absolute;
+left: 56.34%;
+right: 37.81%;
+top: 46.86%;
+bottom: 47.17%;
+
+background: #271C47;
+
+
+/* Caminho 37 */
+
+position: absolute;
+left: 63.21%;
+right: 33.62%;
+top: 46.9%;
+bottom: 47.33%;
+
+background: #271C47;
+
+
+/* Caminho 38 */
+
+position: absolute;
+left: 66.67%;
+right: 28.69%;
+top: 46.86%;
+bottom: 47.17%;
+
+background: #271C47;
+
+
+/* Caminho 39 */
+
+position: absolute;
+left: 71.88%;
+right: 22.27%;
+top: 46.86%;
+bottom: 47.17%;
+
+background: #271C47;
+
+
+/* Grupo 8 */
+
+position: absolute;
+left: 37.43%;
+right: 22.28%;
+top: 46.86%;
+bottom: 47.17%;
+
+
+
+/* Intersect */
+
+position: absolute;
+left: 22.27%;
+right: 61.25%;
+top: 41.23%;
+bottom: 42.29%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 30 */
+
+position: absolute;
+left: 22.27%;
+right: 61.25%;
+top: 41.23%;
+bottom: 42.29%;
+
+/* Paleta de cores/Amarelo */
+background: #F7CA11;
+
+
+/* Caminho 31 */
+
+position: absolute;
+left: 24.95%;
+right: 69.2%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Paleta de cores/Neutras/Background */
+background: #F8F8F8;
+
+
+/* Caminho 32 */
+
+position: absolute;
+left: 31.45%;
+right: 62.98%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Paleta de cores/Neutras/Background */
+background: #F8F8F8;
+
+
+/* Caminho 33 */
+
+position: absolute;
+left: 37.43%;
+right: 56.62%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 34 */
+
+position: absolute;
+left: 44.41%;
+right: 50.31%;
+top: 46.86%;
+bottom: 47.33%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 35 */
+
+position: absolute;
+left: 50.2%;
+right: 43.84%;
+top: 47.02%;
+bottom: 47.33%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 36 */
+
+position: absolute;
+left: 56.34%;
+right: 37.81%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 37 */
+
+position: absolute;
+left: 63.21%;
+right: 33.62%;
+top: 46.9%;
+bottom: 47.33%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 38 */
+
+position: absolute;
+left: 66.67%;
+right: 28.69%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* Caminho 39 */
+
+position: absolute;
+left: 71.88%;
+right: 22.28%;
+top: 46.86%;
+bottom: 47.17%;
+
+/* Roxo */
+background: #271C47;
+
+
+/* vitrine 3 */
+
+position: absolute;
+width: 1364px;
+height: 597px;
+left: 37.5px;
+top: 3482px;
+
+
+
+/* Group 1169 */
+
+position: absolute;
+left: 10.45%;
+right: 10.52%;
+top: 74.72%;
+bottom: 23.73%;
+
+
+
+/* titulo */
+
+position: absolute;
+left: 10.45%;
+right: 10.52%;
+top: 74.72%;
+bottom: 24.31%;
+
+
+
+/* Group 866 */
+
+position: absolute;
+left: 10.45%;
+right: 10.52%;
+top: 74.72%;
+bottom: 24.31%;
+
+
+
+/* Produtos relacionados */
+
+position: absolute;
+width: 350px;
+height: 45px;
+left: 544.5px;
+top: 3482px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 45px;
+/* identical to box height */
+
+/* Azul */
+color: #3442B5;
+
+
+
+/* Line 26 */
+
+position: absolute;
+width: 360px;
+height: 0px;
+left: 928.5px;
+top: 3500px;
+
+border: 1px solid #DEDEDE;
+
+
+/* Line 27 */
+
+position: absolute;
+width: 360px;
+height: 0px;
+left: 150.5px;
+top: 3500px;
+
+border: 1px solid #DEDEDE;
+
+
+/* Ver todos */
+
+position: absolute;
+width: 74px;
+height: 23px;
+left: 682.5px;
+top: 3531px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+text-align: center;
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* vitrine */
+
+position: absolute;
+width: 1364px;
+height: 501px;
+left: 37.5px;
+top: 3578px;
+
+
+
+/* Frame 2368 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 18px;
+
+position: absolute;
+width: 1270px;
+height: 501px;
+left: calc(50% - 1270px/2 - 0.5px);
+top: 3578px;
+
+
+
+/* card */
+
+width: 304px;
+height: 500px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 1449 */
+
+position: absolute;
+width: 304px;
+height: 500px;
+left: 0px;
+top: 0.5px;
+
+
+
+/* Rectangle 270 */
+
+position: absolute;
+left: 0%;
+right: 76.06%;
+top: 0.1%;
+bottom: 0.1%;
+
+background: #FFFFFF;
+box-shadow: 0px 3px 19px rgba(0, 0, 0, 0.22);
+border-radius: 10px;
+
+
+/* produto 4 */
+
+position: absolute;
+left: 0.98%;
+right: 77.13%;
+top: 3.49%;
+bottom: 3.29%;
+
+
+
+/* Rectangle 266 */
+
+position: absolute;
+left: 1.42%;
+right: 77.3%;
+top: 3.49%;
+bottom: 5.69%;
+
+background: #FFFFFF;
+
+
+/* produto */
+
+position: absolute;
+left: 0.98%;
+right: 77.13%;
+top: 4.49%;
+bottom: 3.29%;
+
+
+
+/* Rectangle 265 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 1.42%;
+right: 77.3%;
+top: 4.49%;
+bottom: 47.6%;
+
+background: #FFFFFF;
+
+
+/* bt */
+
+position: absolute;
+left: 0.98%;
+right: 77.3%;
+top: 87.92%;
+bottom: 3.29%;
+
+
+
+/* bt comprar */
+
+position: absolute;
+left: 0.98%;
+right: 77.3%;
+top: 87.92%;
+bottom: 3.29%;
+
+
+
+/* Rectangle 267 */
+
+position: absolute;
+left: 0.98%;
+right: 77.3%;
+top: 87.92%;
+bottom: 3.29%;
+
+/* Azul */
+background: #3442B5;
+border-radius: 4px;
+
+
+/* Comprar */
+
+position: absolute;
+left: 6.86%;
+right: 83.05%;
+top: 90.73%;
+bottom: 5.58%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* produto */
+
+position: absolute;
+left: 0.98%;
+right: 77.13%;
+top: 6.49%;
+bottom: 23.45%;
+
+
+
+/* Grupo de máscara 20 1 */
+
+position: absolute;
+left: 0.98%;
+right: 77.13%;
+top: 6.49%;
+bottom: 48%;
+
+background: url(xicara-de-cha-atrapasuenos-21131361-1 1);
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. */
+
+position: absolute;
+left: 0.98%;
+right: 77.3%;
+top: 53.79%;
+bottom: 37.03%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* preco */
+
+position: absolute;
+left: 0.98%;
+right: 91.4%;
+top: 65.37%;
+bottom: 23.45%;
+
+
+
+/* R$ 28,90 */
+
+position: absolute;
+left: 0.98%;
+right: 91.4%;
+top: 70.56%;
+bottom: 23.45%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* R$ 30,90 */
+
+position: absolute;
+left: 0.98%;
+right: 93.08%;
+top: 65.37%;
+bottom: 29.84%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-decoration-line: line-through;
+
+color: #808080;
+
+
+
+/* ou 2x de R$ 49,95 sem juros */
+
+position: absolute;
+width: 186.9px;
+height: 18px;
+left: 12.39px;
+top: 385.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* Frete grátis */
+
+position: absolute;
+width: 76.56px;
+height: 18px;
+left: 12.39px;
+top: 410.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+color: #3442B5;
+
+
+
+/* card */
+
+width: 304px;
+height: 500px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Group 1449 */
+
+position: absolute;
+width: 304px;
+height: 500px;
+left: 322px;
+top: 0.5px;
+
+
+
+/* Rectangle 270 */
+
+position: absolute;
+left: 25.35%;
+right: 50.71%;
+top: 0.1%;
+bottom: 0.1%;
+
+background: #FFFFFF;
+box-shadow: 0px 3px 19px rgba(0, 0, 0, 0.22);
+border-radius: 10px;
+
+
+/* produto 4 */
+
+position: absolute;
+left: 26.33%;
+right: 51.77%;
+top: 3.49%;
+bottom: 3.29%;
+
+
+
+/* Rectangle 266 */
+
+position: absolute;
+left: 26.77%;
+right: 51.95%;
+top: 3.49%;
+bottom: 5.69%;
+
+background: #FFFFFF;
+
+
+/* produto */
+
+position: absolute;
+left: 26.33%;
+right: 51.77%;
+top: 4.49%;
+bottom: 3.29%;
+
+
+
+/* Rectangle 265 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 26.77%;
+right: 51.95%;
+top: 4.49%;
+bottom: 47.6%;
+
+background: #FFFFFF;
+
+
+/* bt */
+
+position: absolute;
+left: 26.33%;
+right: 51.95%;
+top: 87.92%;
+bottom: 3.29%;
+
+
+
+/* bt comprar */
+
+position: absolute;
+left: 26.33%;
+right: 51.95%;
+top: 87.92%;
+bottom: 3.29%;
+
+
+
+/* Rectangle 267 */
+
+position: absolute;
+left: 26.33%;
+right: 51.95%;
+top: 87.92%;
+bottom: 3.29%;
+
+/* Azul */
+background: #3442B5;
+border-radius: 4px;
+
+
+/* Comprar */
+
+position: absolute;
+left: 32.22%;
+right: 57.7%;
+top: 90.73%;
+bottom: 5.58%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* produto */
+
+position: absolute;
+left: 26.33%;
+right: 51.77%;
+top: 6.49%;
+bottom: 23.45%;
+
+
+
+/* Grupo de máscara 20 1 */
+
+position: absolute;
+left: 26.33%;
+right: 51.77%;
+top: 6.49%;
+bottom: 48%;
+
+background: url(xicara-de-cha-atrapasuenos-21131361-1 1);
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. */
+
+position: absolute;
+left: 26.33%;
+right: 51.95%;
+top: 53.79%;
+bottom: 37.03%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* preco */
+
+position: absolute;
+left: 26.33%;
+right: 66.05%;
+top: 65.37%;
+bottom: 23.45%;
+
+
+
+/* R$ 28,90 */
+
+position: absolute;
+left: 26.33%;
+right: 66.05%;
+top: 70.56%;
+bottom: 23.45%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* R$ 30,90 */
+
+position: absolute;
+left: 26.33%;
+right: 67.73%;
+top: 65.37%;
+bottom: 29.84%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-decoration-line: line-through;
+
+color: #808080;
+
+
+
+/* ou 2x de R$ 49,95 sem juros */
+
+position: absolute;
+width: 186.9px;
+height: 18px;
+left: 334.39px;
+top: 385.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* Frete grátis */
+
+position: absolute;
+width: 76.56px;
+height: 18px;
+left: 334.39px;
+top: 410.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+color: #3442B5;
+
+
+
+/* card */
+
+width: 304px;
+height: 500px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Group 1449 */
+
+position: absolute;
+width: 304px;
+height: 500px;
+left: 644px;
+top: 0.5px;
+
+
+
+/* Rectangle 270 */
+
+position: absolute;
+left: 50.71%;
+right: 25.35%;
+top: 0.1%;
+bottom: 0.1%;
+
+background: #FFFFFF;
+box-shadow: 0px 3px 19px rgba(0, 0, 0, 0.22);
+border-radius: 10px;
+
+
+/* produto 4 */
+
+position: absolute;
+left: 51.68%;
+right: 26.42%;
+top: 3.49%;
+bottom: 3.29%;
+
+
+
+/* Rectangle 266 */
+
+position: absolute;
+left: 52.13%;
+right: 26.6%;
+top: 3.49%;
+bottom: 5.69%;
+
+background: #FFFFFF;
+
+
+/* produto */
+
+position: absolute;
+left: 51.68%;
+right: 26.42%;
+top: 4.49%;
+bottom: 3.29%;
+
+
+
+/* Rectangle 265 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 52.13%;
+right: 26.6%;
+top: 4.49%;
+bottom: 47.6%;
+
+background: #FFFFFF;
+
+
+/* bt */
+
+position: absolute;
+left: 51.68%;
+right: 26.6%;
+top: 87.92%;
+bottom: 3.29%;
+
+
+
+/* bt comprar */
+
+position: absolute;
+left: 51.68%;
+right: 26.6%;
+top: 87.92%;
+bottom: 3.29%;
+
+
+
+/* Rectangle 267 */
+
+position: absolute;
+left: 51.68%;
+right: 26.6%;
+top: 87.92%;
+bottom: 3.29%;
+
+/* Azul */
+background: #3442B5;
+border-radius: 4px;
+
+
+/* Comprar */
+
+position: absolute;
+left: 57.57%;
+right: 32.34%;
+top: 90.73%;
+bottom: 5.58%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* produto */
+
+position: absolute;
+left: 51.68%;
+right: 26.42%;
+top: 6.49%;
+bottom: 23.45%;
+
+
+
+/* Grupo de máscara 20 1 */
+
+position: absolute;
+left: 51.68%;
+right: 26.42%;
+top: 6.49%;
+bottom: 48%;
+
+background: url(xicara-de-cha-atrapasuenos-21131361-1 1);
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. */
+
+position: absolute;
+left: 51.68%;
+right: 26.6%;
+top: 53.79%;
+bottom: 37.03%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* preco */
+
+position: absolute;
+left: 51.68%;
+right: 40.69%;
+top: 65.37%;
+bottom: 23.45%;
+
+
+
+/* R$ 28,90 */
+
+position: absolute;
+left: 51.68%;
+right: 40.69%;
+top: 70.56%;
+bottom: 23.45%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* R$ 30,90 */
+
+position: absolute;
+left: 51.68%;
+right: 42.38%;
+top: 65.37%;
+bottom: 29.84%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-decoration-line: line-through;
+
+color: #808080;
+
+
+
+/* ou 2x de R$ 49,95 sem juros */
+
+position: absolute;
+width: 186.9px;
+height: 18px;
+left: 656.39px;
+top: 385.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* Frete grátis */
+
+position: absolute;
+width: 76.56px;
+height: 18px;
+left: 656.39px;
+top: 410.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+color: #3442B5;
+
+
+
+/* card */
+
+width: 304px;
+height: 500px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Group 1449 */
+
+position: absolute;
+width: 304px;
+height: 500px;
+left: 966px;
+top: 0.5px;
+
+
+
+/* Rectangle 270 */
+
+position: absolute;
+left: 76.06%;
+right: 0%;
+top: 0.1%;
+bottom: 0.1%;
+
+background: #FFFFFF;
+box-shadow: 0px 3px 19px rgba(0, 0, 0, 0.22);
+border-radius: 10px;
+
+
+/* produto 4 */
+
+position: absolute;
+left: 77.04%;
+right: 1.06%;
+top: 3.49%;
+bottom: 3.29%;
+
+
+
+/* Rectangle 266 */
+
+position: absolute;
+left: 77.48%;
+right: 1.24%;
+top: 3.49%;
+bottom: 5.69%;
+
+background: #FFFFFF;
+
+
+/* produto */
+
+position: absolute;
+left: 77.04%;
+right: 1.06%;
+top: 4.49%;
+bottom: 3.29%;
+
+
+
+/* Rectangle 265 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 77.48%;
+right: 1.24%;
+top: 4.49%;
+bottom: 47.6%;
+
+background: #FFFFFF;
+
+
+/* bt */
+
+position: absolute;
+left: 77.04%;
+right: 1.24%;
+top: 87.92%;
+bottom: 3.29%;
+
+
+
+/* bt comprar */
+
+position: absolute;
+left: 77.04%;
+right: 1.24%;
+top: 87.92%;
+bottom: 3.29%;
+
+
+
+/* Rectangle 267 */
+
+position: absolute;
+left: 77.04%;
+right: 1.24%;
+top: 87.92%;
+bottom: 3.29%;
+
+/* Azul */
+background: #3442B5;
+border-radius: 4px;
+
+
+/* Comprar */
+
+position: absolute;
+left: 82.92%;
+right: 6.99%;
+top: 90.73%;
+bottom: 5.58%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* produto */
+
+position: absolute;
+left: 77.04%;
+right: 1.06%;
+top: 6.49%;
+bottom: 23.45%;
+
+
+
+/* Grupo de máscara 20 1 */
+
+position: absolute;
+left: 77.04%;
+right: 1.06%;
+top: 6.49%;
+bottom: 48%;
+
+background: url(xicara-de-cha-atrapasuenos-21131361-1 1);
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. */
+
+position: absolute;
+left: 77.04%;
+right: 1.24%;
+top: 53.79%;
+bottom: 37.03%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 22px;
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* preco */
+
+position: absolute;
+left: 77.04%;
+right: 15.34%;
+top: 65.37%;
+bottom: 23.45%;
+
+
+
+/* R$ 28,90 */
+
+position: absolute;
+left: 77.04%;
+right: 15.34%;
+top: 70.56%;
+bottom: 23.45%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* R$ 30,90 */
+
+position: absolute;
+left: 77.04%;
+right: 17.02%;
+top: 65.37%;
+bottom: 29.84%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-decoration-line: line-through;
+
+color: #808080;
+
+
+
+/* ou 2x de R$ 49,95 sem juros */
+
+position: absolute;
+width: 186.9px;
+height: 18px;
+left: 978.39px;
+top: 385.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+/* Preto */
+color: #3F3F40;
+
+
+
+/* Frete grátis */
+
+position: absolute;
+width: 76.56px;
+height: 18px;
+left: 978.39px;
+top: 410.5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+color: #3442B5;
+
+
+
+/* Frame 2369 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+gap: 1300px;
+
+position: absolute;
+width: 1364px;
+height: 32.06px;
+left: calc(50% - 1364px/2 - 0.5px);
+top: 3824.49px;
+
+
+
+/* Group 2411 */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 49 */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 0px;
+top: 0.03px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Vector */
+
+position: absolute;
+width: 7.47px;
+height: 12.8px;
+left: 10.67px;
+top: 9.63px;
+
+/* Preto */
+background: #3F3F40;
+
+
+/* Group 2412 */
+
+width: 32px;
+height: 32px;
+
+transform: rotate(180deg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse 49 */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 1332px;
+top: 0.03px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+transform: rotate(180deg);
+
+
+/* Vector */
+
+position: absolute;
+width: 7.47px;
+height: 12.8px;
+left: 1345.87px;
+top: 9.63px;
+
+/* Preto */
+background: #3F3F40;
+transform: rotate(180deg);
+
+
+/* _newsletter+footer */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 1441px;
+height: 490.84px;
+left: -1px;
+top: 4169px;
+
+
+
+/* _newsletter */
+
+width: 1440px;
+height: 162px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* unsplash:_jd8I6yBWM4 */
+
+position: absolute;
+width: 1467.41px;
+height: 2619.39px;
+left: calc(50% - 1467.41px/2 - 0.3px);
+bottom: -1478.39px;
+
+
+
+/* Rectangle 799 */
+
+position: absolute;
+width: 1440px;
+height: 162px;
+left: 0.5px;
+bottom: 0px;
+
+/* Cores principais/Violeta */
+background: #271C47;
+
+
+/* Frame 23197 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 515px;
+height: 82px;
+left: 80.5px;
+top: 40px;
+
+
+
+/* Inscreva-se na nossa newsletter */
+
+width: 463px;
+height: 38px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 120%;
+/* or 38px */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Assine a nossa newsletter e receba as novidades e conteúdos exclusivos da Econverse. */
+
+width: 515px;
+height: 36px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 18px;
+/* or 129% */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* infos */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 639px;
+height: 71px;
+left: 719.5px;
+top: 45.5px;
+
+
+
+/* inputs + button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 639px;
+height: 42px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 10483 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 639px;
+height: 42px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* text + input */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 233px;
+height: 42px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Nome */
+
+display: none;
+width: 216px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* input */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 24px;
+gap: 10px;
+
+width: 233px;
+height: 42px;
+
+background: #FFFFFF;
+border: 1px solid #E7E7E7;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Digite seu nome */
+
+width: 114px;
+height: 18px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+text-align: center;
+
+color: #676767;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* text + input */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 233px;
+height: 42px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* E-mail */
+
+display: none;
+width: 216px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* input */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 24px;
+gap: 10px;
+
+width: 233px;
+height: 42px;
+
+background: #FFFFFF;
+border: 1px solid #E7E7E7;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Digite seu e-mail */
+
+width: 120px;
+height: 18px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+text-align: center;
+
+color: #676767;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 10481 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 15px 40px;
+gap: 10px;
+
+width: 157px;
+height: 42px;
+
+background: #F7CA11;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* INSCREVER */
+
+width: 77px;
+height: 12px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 12px;
+/* identical to box height, or 86% */
+
+color: #161615;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Select */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 226px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Select */
+
+width: 15px;
+height: 15px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 9 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #F6F6F6;
+border: 1px solid #8C342B;
+border-radius: 1px;
+
+
+/* Aceito os termos e condições */
+
+width: 207px;
+height: 21px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Footer */
+
+width: 1440px;
+height: 282px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Footer */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 42px 80px;
+gap: 90px;
+
+position: absolute;
+width: 1440px;
+height: 282px;
+left: 0.5px;
+top: 162px;
+
+background: #F4F4F4;
+
+
+/* Frame 85 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 27px;
+
+width: 354px;
+height: 159px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 84 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 18px;
+
+width: 354px;
+height: 108px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Grupo 9 */
+
+width: 164px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Caminho 30 */
+
+position: absolute;
+width: 48.73px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #E7CD1F;
+
+
+/* Caminho 31 */
+
+position: absolute;
+width: 17.29px;
+height: 17.39px;
+left: 7.93px;
+top: 16.39px;
+
+/* Branco */
+background: #FFFFFF;
+
+
+/* Caminho 32 */
+
+position: absolute;
+width: 16.49px;
+height: 17.39px;
+left: 27.13px;
+top: 16.39px;
+
+/* Branco */
+background: #FFFFFF;
+
+
+/* Caminho 33 */
+
+position: absolute;
+width: 17.62px;
+height: 17.39px;
+left: 44.82px;
+top: 16.39px;
+
+background: #FFFFFF;
+
+
+/* Caminho 34 */
+
+position: absolute;
+width: 15.62px;
+height: 16.93px;
+left: 65.48px;
+top: 16.39px;
+
+background: #FFFFFF;
+
+
+/* Caminho 35 */
+
+position: absolute;
+width: 17.62px;
+height: 16.47px;
+left: 82.6px;
+top: 16.85px;
+
+background: #FFFFFF;
+
+
+/* Caminho 36 */
+
+position: absolute;
+width: 17.29px;
+height: 17.39px;
+left: 100.76px;
+top: 16.39px;
+
+background: #FFFFFF;
+
+
+/* Caminho 37 */
+
+position: absolute;
+width: 9.4px;
+height: 16.8px;
+left: 121.06px;
+top: 16.52px;
+
+background: #FFFFFF;
+
+
+/* Caminho 38 */
+
+position: absolute;
+width: 13.75px;
+height: 17.4px;
+left: 131.29px;
+top: 16.39px;
+
+background: #FFFFFF;
+
+
+/* Caminho 39 */
+
+position: absolute;
+width: 17.29px;
+height: 17.39px;
+left: 146.71px;
+top: 16.39px;
+
+background: #FFFFFF;
+
+
+/* Grupo 8 */
+
+position: absolute;
+left: 0%;
+right: 53.67%;
+top: 0%;
+bottom: 55.56%;
+
+
+
+/* Group 1 */
+
+position: absolute;
+width: 48.73px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+
+/* Caminho 30 */
+
+position: absolute;
+width: 48.73px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #F7CA11;
+
+
+/* Caminho 31 */
+
+position: absolute;
+width: 17.29px;
+height: 17.39px;
+left: 7.93px;
+top: 16.39px;
+
+background: #F4F4F4;
+
+
+/* Caminho 32 */
+
+position: absolute;
+width: 16.49px;
+height: 17.39px;
+left: 27.13px;
+top: 16.39px;
+
+background: #F4F4F4;
+
+
+/* Caminho 33 */
+
+position: absolute;
+width: 17.62px;
+height: 17.39px;
+left: 44.82px;
+top: 16.39px;
+
+background: #271C47;
+
+
+/* Caminho 34 */
+
+position: absolute;
+width: 15.62px;
+height: 16.93px;
+left: 65.48px;
+top: 16.39px;
+
+background: #271C47;
+
+
+/* Caminho 35 */
+
+position: absolute;
+width: 17.62px;
+height: 16.47px;
+left: 82.6px;
+top: 16.85px;
+
+background: #271C47;
+
+
+/* Caminho 36 */
+
+position: absolute;
+width: 17.29px;
+height: 17.39px;
+left: 100.76px;
+top: 16.39px;
+
+background: #271C47;
+
+
+/* Caminho 37 */
+
+position: absolute;
+width: 9.4px;
+height: 16.8px;
+left: 121.06px;
+top: 16.52px;
+
+background: #271C47;
+
+
+/* Caminho 38 */
+
+position: absolute;
+width: 13.75px;
+height: 17.4px;
+left: 131.29px;
+top: 16.39px;
+
+background: #271C47;
+
+
+/* Caminho 39 */
+
+position: absolute;
+width: 17.29px;
+height: 17.39px;
+left: 146.71px;
+top: 16.39px;
+
+background: #271C47;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. */
+
+width: 354px;
+height: 42px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 21px;
+
+/* Preto */
+color: #3F3F40;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 83 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 26px;
+
+width: 124px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* instagram */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Cinza claro */
+border: 2px solid #4A4A4A;
+
+
+/* Vector */
+
+position: absolute;
+left: 33.51%;
+right: 33.15%;
+top: 33.15%;
+bottom: 33.51%;
+
+/* Cinza claro */
+border: 2px solid #4A4A4A;
+
+
+/* Vector */
+
+position: absolute;
+left: 72.92%;
+right: 27.04%;
+top: 27.08%;
+bottom: 72.92%;
+
+/* Cinza claro */
+border: 2px solid #4A4A4A;
+
+
+/* facebook */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 25%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* Cinza claro */
+border: 2px solid #4A4A4A;
+
+
+/* linkedin */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 41.67%;
+right: 8.33%;
+top: 33.33%;
+bottom: 12.5%;
+
+/* Cinza claro */
+border: 2px solid #4A4A4A;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 75%;
+top: 37.5%;
+bottom: 12.5%;
+
+/* Cinza claro */
+border: 2px solid #4A4A4A;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 75%;
+top: 8.33%;
+bottom: 75%;
+
+/* Cinza claro */
+border: 2px solid #4A4A4A;
+
+
+/* Line 4 */
+
+width: 198px;
+height: 0px;
+
+border: 1px solid rgba(40, 40, 40, 0.18);
+transform: rotate(90deg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 81 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 100px;
+
+width: 631px;
+height: 116px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 79 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+width: 121px;
+height: 116px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Institucional */
+
+width: 104px;
+height: 16px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+
+color: rgba(34, 34, 34, 0.71);
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 78 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 121px;
+height: 80px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Sobre Nós */
+
+width: 71px;
+height: 16px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height, or 114% */
+
+color: rgba(34, 34, 34, 0.71);
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Movimento */
+
+width: 76px;
+height: 16px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height, or 114% */
+
+color: rgba(34, 34, 34, 0.71);
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Trabalhe conosco */
+
+width: 121px;
+height: 16px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height, or 114% */
+
+color: rgba(34, 34, 34, 0.71);
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 80 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+width: 150px;
+height: 116px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ajuda */
+
+width: 49px;
+height: 16px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+
+color: rgba(34, 34, 34, 0.71);
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 78 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 150px;
+height: 80px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Suporte */
+
+width: 54px;
+height: 16px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height, or 114% */
+
+color: rgba(34, 34, 34, 0.71);
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Fale Conosco */
+
+width: 92px;
+height: 16px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height, or 114% */
+
+color: rgba(34, 34, 34, 0.71);
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Perguntas Frequentes */
+
+width: 150px;
+height: 16px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height, or 114% */
+
+color: rgba(34, 34, 34, 0.71);
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 81 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+width: 160px;
+height: 116px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Termos */
+
+width: 63px;
+height: 16px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+
+color: rgba(34, 34, 34, 0.71);
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 78 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 160px;
+height: 80px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Termos e Condições */
+
+width: 144px;
+height: 16px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height, or 114% */
+
+color: rgba(34, 34, 34, 0.71);
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Política de Privacidade */
+
+width: 160px;
+height: 16px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height, or 114% */
+
+color: rgba(34, 34, 34, 0.71);
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Troca e Devolução */
+
+width: 131px;
+height: 16px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height, or 114% */
+
+color: rgba(34, 34, 34, 0.71);
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Group 1999 */
+
+width: 1441px;
+height: 46.84px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Rectangle 595 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 90.46%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. */
+
+position: absolute;
+width: 355px;
+left: calc(50% - 355px/2);
+top: 93.11%;
+bottom: 2.82%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height */
+
+/* Preto */
+color: #3F3F40;
+

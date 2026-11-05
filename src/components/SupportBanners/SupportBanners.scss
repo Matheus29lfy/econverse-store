@@ -1,0 +1,58 @@
+@use '../../styles/variables' as *;
+
+.support-banners {
+  display: flex;
+  gap: 13px;
+  max-width: 1280px;
+  margin: 60px auto;
+  padding: 0 16px;
+
+  .banner-box {
+    flex: 1;
+    height: 350px;
+    background: #C4C4C4;
+    border-radius: 20px;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    align-items: flex-end;
+    padding: 44px;
+
+    .banner-gradient {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 85.04%);
+      opacity: 0.8;
+    }
+
+    .banner-content {
+      position: relative;
+      z-index: 2;
+
+      h4 {
+        font-size: 40px;
+        font-weight: 700;
+        color: $color-white;
+      }
+
+      p {
+        font-size: 16px;
+        color: $color-white;
+        margin: 8px 0 16px 0;
+      }
+
+      .btn-confira {
+        width: 144px;
+        height: 48px;
+        background: $color-yellow;
+        border: none;
+        border-radius: 6px;
+        font-weight: 700;
+        font-size: 16px;
+        color: $color-purple;
+        text-transform: uppercase;
+        cursor: pointer;
+      }
+    }
+  }
+}

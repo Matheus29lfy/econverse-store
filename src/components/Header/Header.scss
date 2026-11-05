@@ -1,0 +1,162 @@
+// src/components/Header/Header.scss
+.header-container {
+  width: 100%;
+  border-bottom: 1px solid #f0f0f0;
+  font-family: 'Poppins', sans-serif;
+  background-color: #ffffff;
+
+  // Barra Superior (Topo)
+  .header-top {
+    border-bottom: 1px solid #f0f0f0;
+    font-size: 12px;
+    color: #9f9f9f;
+    padding: 8px 0;
+
+    .top-content {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 0 16px;
+
+      ul {
+        list-style: none;
+        display: flex;
+        gap: 32px;
+        margin: 0;
+        padding: 0;
+
+        li {
+          display: flex;
+          align-items: center;
+          gap: 6px;
+
+          span {
+            color: #414141;
+            font-weight: 500;
+          }
+
+          strong {
+            color: #f71963;
+          }
+        }
+      }
+    }
+  }
+
+  // Barra Principal
+  .header-main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
+
+    .logo {
+      font-size: 24px;
+      font-weight: bold;
+      color: #041E50;
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+
+      img {
+        max-height: 35px;
+      }
+    }
+
+    // Barra de Pesquisa Central
+    .search-bar {
+      flex: 1;
+      max-width: 600px;
+      display: flex;
+      align-items: center;
+      background-color: #f6f5f2;
+      border-radius: 8px;
+      padding: 0 16px;
+      height: 48px;
+
+      input {
+        flex: 1;
+        border: none;
+        background: transparent;
+        outline: none;
+        font-size: 14px;
+        color: #3f3f40;
+
+        &::placeholder {
+          color: #9f9f9f;
+        }
+      }
+
+      .search-icon {
+        background: transparent;
+        border: none;
+        cursor: pointer;
+        color: #9f9f9f;
+        font-size: 18px;
+      }
+    }
+
+    // Ícones de Ação (Favoritos, Conta, Carrinho)
+    .header-actions {
+      display: flex;
+      align-items: center;
+      gap: 24px;
+
+      button {
+        background: transparent;
+        border: none;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        color: #414141;
+        font-size: 14px;
+        transition: color 0.2s;
+
+        &:hover {
+          color: #f71963;
+        }
+
+        svg {
+          font-size: 20px;
+        }
+      }
+    }
+  }
+
+  // Barra de Navegação (Categorias / Menu inferior do Header)
+  .header-nav {
+    border-top: 1px solid #f0f0f0;
+
+    ul {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 16px;
+      list-style: none;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      height: 40px;
+
+      li {
+        a {
+          text-decoration: none;
+          color: #9f9f9f;
+          font-size: 12px;
+          font-weight: 600;
+          text-transform: uppercase;
+          transition: color 0.2s;
+
+          &:hover, &.active {
+            color: #f71963;
+          }
+        }
+      }
+    }
+  }
+}
