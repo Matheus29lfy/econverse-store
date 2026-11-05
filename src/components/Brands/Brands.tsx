@@ -1,5 +1,4 @@
 // src/components/Brands/Brands.tsx
-import React from 'react';
 import './Brands.scss';
 
 export default function Brands() {

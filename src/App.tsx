@@ -1,5 +1,5 @@
 // src/App.tsx
-import React, { useState, useEffect } from 'react';
+import  { useState, useEffect } from 'react';
 import { fetchProducts } from './services/api';
 import type { Product } from './types/product';
 import Header from './components/Header/Header';

@@ -1,5 +1,4 @@
 // src/components/Categories/Categories.tsx
-import React from 'react';
 import './Categories.scss';
 
 interface Category {

@@ -1,5 +1,4 @@
 // src/components/SupportBanners/SupportBanners.tsx
-import React from 'react';
 import './SupportBanners.scss';
 
 export default function SupportBanners() {

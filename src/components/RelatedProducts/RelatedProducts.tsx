@@ -1,5 +1,5 @@
 // src/components/RelatedProducts/RelatedProducts.tsx
-import React, { useState, useRef } from 'react';
+import { useState, useRef } from 'react';
 import type { Product } from '../../types/product';
 import ProductCard from '../ProductCard/ProductCard';
 import './RelatedProducts.scss';

@@ -4,7 +4,6 @@
     "target": "es2023",
     "lib": ["ES2023", "DOM"],
     "module": "esnext",
-    "types": ["vite/client"],
     "allowArbitraryExtensions": true,
     "skipLibCheck": true,
     "types": ["vitest/globals", "@testing-library/jest-dom"],
@@ -23,5 +22,6 @@
     "erasableSyntaxOnly": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src"]
+  "include": ["src", "src/**/*.test.tsx", "src/setupTests.ts"],
+  "exclude": ["src/**/*.test.tsx", "src/**/*.spec.tsx", "src/setupTests.ts"]
 }
