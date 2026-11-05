@@ -1,75 +1,68 @@
 // src/components/Categories/Categories.scss
+@use '../../styles/variables' as *;
+
 .categories-container {
-  max-width: 1200px;
-  margin: 0 auto 40px auto;
+  max-width: 1280px;
+  margin: 40px auto;
   padding: 0 16px;
 
   .categories-list {
     display: flex;
     justify-content: space-between;
-    gap: 16px;
+    gap: 20px;
     list-style: none;
-    padding: 0;
-    margin: 0;
-    overflow-x: auto;
-    padding-bottom: 8px;
+    overflow-x: auto; // Permite arrastar/rolar no celular
+    padding-bottom: 12px;
+    scroll-behavior: smooth;
+    scrollbar-width: none;
 
     &::-webkit-scrollbar {
-      height: 4px;
+      display: none; // Esconde a barra de rolagem no mobile
     }
 
-    &::-webkit-scrollbar-thumb {
-      background-color: #ddd;
-      border-radius: 4px;
-    }
-
-    .category-item {
+    .category-card {
+      min-width: 100px; // Garante espaço adequado para cada card no mobile
+      width: 128px;
       display: flex;
       flex-direction: column;
       align-items: center;
       gap: 12px;
       cursor: pointer;
-      min-width: 100px;
-      text-align: center;
+      flex-shrink: 0;
 
-      .category-icon-box {
-        width: 128px;
-        height: 128px;
-        background-color: #f4f4f4;
-        border-radius: 8px;
+      .icon-box {
+        width: 100px;
+        height: 100px;
+        background: $color-bg-light;
+        box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.13);
+        border-radius: 10px;
         display: flex;
         align-items: center;
         justify-content: center;
-        box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.05);
-        transition: all 0.3s ease;
+        font-size: 32px;
+        transition: all 0.2s ease;
 
-        img, span {
-          font-size: 36px;
-          transition: transform 0.3s ease;
+        @media (min-width: 768px) {
+          width: 128px;
+          height: 128px;
+        }
+
+        &.active, &:hover {
+          background: $color-white;
+          box-shadow: 0px 2px 9px rgba(0, 0, 0, 0.22);
+          border: 1px solid $color-blue;
         }
       }
 
-      .category-name {
-        font-size: 16px;
+      span {
+        font-size: 13px;
         font-weight: 500;
-        color: #3f3f40;
-        transition: color 0.2s;
-      }
+        color: $color-gray-text;
+        text-align: center;
 
-      &:hover {
-        .category-icon-box {
-          background-color: #ffffff;
-          border: 1px solid #f71963;
-          box-shadow: 0px 4px 16px rgba(247, 25, 99, 0.15);
-
-          span {
-            transform: scale(1.1);
-          }
-        }
-
-        .category-name {
-          color: #f71963;
-          font-weight: 700;
+        &.active {
+          color: $color-blue;
+          font-weight: 600;
         }
       }
     }

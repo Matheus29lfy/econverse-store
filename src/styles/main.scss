@@ -1,12 +1,105 @@
+// src/styles/main.scss
 @use 'variables' as *;
 @use 'reset';
 
 .home-container {
   position: relative;
-  width: 100%;          // Ocupa 100% da tela de ponta a ponta
-  max-width: 1440px;    // Limita o crescimento em monitores ultra-wide
-  margin: 0 auto;       // Centraliza caso a tela seja maior que 1440px
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
   background: $color-white;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.05); // Opcional: dá um respiro visual se necessário
   overflow-x: hidden;
+}
+
+// Ajustes responsivos globais para mobile
+@media (max-width: 768px) {
+  // Esconde a barra superior utilitária muito longa se necessário ou quebra o texto
+  .header-container {
+    height: auto !important;
+
+    .header-top ul {
+      gap: 16px;
+      font-size: 10px;
+      overflow-x: auto;
+      padding: 4px 8px;
+    }
+
+    .header-main {
+      padding: 0 12px;
+      flex-direction: column;
+      height: auto;
+      gap: 12px;
+
+      .search-box {
+        position: static !important;
+        width: 100% !important;
+      }
+    }
+
+    .header-nav ul {
+      gap: 16px;
+      overflow-x: auto;
+      padding: 0 12px;
+      justify-content: flex-start;
+    }
+  }
+
+  // Ajuste do Banner Principal em telas pequenas
+  .main-banner {
+    height: 280px !important;
+
+    .banner-content {
+      padding: 32px 16px;
+
+      h1 {
+        font-size: 28px !important;
+        line-height: 32px !important;
+      }
+
+      h2 {
+        font-size: 20px !important;
+      }
+    }
+  }
+
+  // Ajuste dos Banners de Parceiros para empilhar no mobile
+  .support-banners {
+    flex-direction: column;
+    padding: 0 16px;
+
+    .banner-box {
+      width: 100% !important;
+      height: 250px;
+    }
+  }
+
+  // Ajuste do Rodapé / Newsletter para empilhar em colunas
+  .footer-wrapper {
+    .newsletter-section {
+      padding: 24px 16px;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 20px;
+
+      .news-form .form-row {
+        flex-direction: column;
+        width: 100%;
+
+        input, button {
+          width: 100% !important;
+        }
+      }
+    }
+
+    .footer-links {
+      padding: 24px 16px;
+      flex-direction: column;
+      gap: 32px;
+
+      .links-grid {
+        flex-direction: column;
+        gap: 24px;
+      }
+    }
+  }
 }
