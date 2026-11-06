@@ -1,4 +1,5 @@
 // src/components/Categories/Categories.tsx
+import { useState } from 'react';
 import './Categories.scss';
 
 interface Category {
@@ -17,17 +18,26 @@ const categoriesData: Category[] = [
 ];
 
 export default function Categories() {
+  const [activeCategory, setActiveCategory] = useState<string>('Tecnologia');
+
   return (
     <nav className="categories-container">
       <ul className="categories-list">
-        {categoriesData.map((category, index) => (
-          <li key={index} className="category-item">
-            <div className="category-icon-box">
-              <span>{category.icon}</span>
-            </div>
-            <span className="category-name">{category.name}</span>
-          </li>
-        ))}
+        {categoriesData.map((category) => {
+          const isActive = activeCategory === category.name;
+          return (
+            <li
+              key={category.name}
+              className={`category-item ${isActive ? 'active' : ''}`}
+              onClick={() => setActiveCategory(category.name)}
+            >
+              <div className="category-icon-box">
+                <span>{category.icon}</span>
+              </div>
+              <span className="category-name">{category.name}</span>
+            </li>
+          );
+        })}
       </ul>
     </nav>
   );

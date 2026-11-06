@@ -11,17 +11,17 @@
     justify-content: space-between;
     gap: 20px;
     list-style: none;
-    overflow-x: auto; // Permite arrastar/rolar no celular
+    overflow-x: auto;
     padding-bottom: 12px;
     scroll-behavior: smooth;
     scrollbar-width: none;
 
     &::-webkit-scrollbar {
-      display: none; // Esconde a barra de rolagem no mobile
+      display: none;
     }
 
-    .category-card {
-      min-width: 100px; // Garante espaço adequado para cada card no mobile
+    .category-item {
+      min-width: 100px;
       width: 128px;
       display: flex;
       flex-direction: column;
@@ -30,12 +30,13 @@
       cursor: pointer;
       flex-shrink: 0;
 
-      .icon-box {
+      .category-icon-box {
         width: 100px;
         height: 100px;
         background: $color-bg-light;
         box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.13);
         border-radius: 10px;
+        border: 2px solid transparent;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -46,23 +47,38 @@
           width: 128px;
           height: 128px;
         }
-
-        &.active, &:hover {
-          background: $color-white;
-          box-shadow: 0px 2px 9px rgba(0, 0, 0, 0.22);
-          border: 1px solid $color-blue;
-        }
       }
 
-      span {
+      .category-name {
         font-size: 13px;
         font-weight: 500;
         color: $color-gray-text;
         text-align: center;
+        transition: color 0.2s ease;
+      }
 
-        &.active {
+      // Efeito ao passar o rato (Hover)
+      &:hover {
+        .category-icon-box {
+          background: $color-white;
+          box-shadow: 0px 2px 9px rgba(0, 0, 0, 0.22);
+          border-color: $color-blue;
+        }
+        .category-name {
           color: $color-blue;
-          font-weight: 600;
+        }
+      }
+
+      // Efeito quando a categoria está selecionada (Active)
+      &.active {
+        .category-icon-box {
+          background: $color-white;
+          box-shadow: 0px 2px 9px rgba(0, 0, 0, 0.22);
+          border-color: $color-blue;
+        }
+        .category-name {
+          color: $color-blue;
+          font-weight: 700;
         }
       }
     }
