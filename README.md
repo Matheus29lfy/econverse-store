@@ -1,75 +1,99 @@
-# React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+```markdown
+# Econverse Store - E-commerce Application
 
-Currently, two official plugins are available:
+Aplicação de e-commerce moderna desenvolvida como projeto de portfólio de alta performance, focada em componentização modular, tipagem estrita com TypeScript, testes unitários robustos e arquitetura limpa.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 **Acesse o site em produção:** [https://econverse-store.vercel.app/](https://econverse-store.vercel.app/)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Tecnologias Utilizadas
 
-## Expanding the ESLint configuration
+O projeto foi construído utilizando tecnologias modernas de mercado:
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+* **React** + **TypeScript** (Tipagem estrita e componentes reutilizables)
+* **Vite** (Build tool de altíssima performance)
+* **SCSS / SASS** (Modularização de estilos e arquitetura limpa)
+* **Vitest** + **React Testing Library** (Ambiente de testes unitários rápido e moderno)
+* **Vercel** (Deploy contínuo e hospedagem em nuvem)
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+---
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+## 🛠️ Funcionalidades e Componentes Principais
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+* **Header & Navegação:** Barra superior completa com barra de pesquisa e menu de departamentos.
+* **Banner Principal:** Destaques promocionais com chamadas para ação.
+* **Categorias Dinâmicas:** Navegação por ícones interativos com controle de estado ativo.
+* **Produtos Relacionados:** Carrossel horizontal suave (`useRef`) com suporte a abas de filtragem por categorias.
+* **Modal de Detalhes do Produto (`ProductModal`):** Visualização rápida com seletor de quantidade formatada em dois dígitos (`01`, `02`...) e cálculo em moeda local (`Intl.NumberFormat`).
+* **Marcas e Rodapé (`Brands & Footer`):** Seções institucionais completas.
+
+---
+
+## ⚙️ Como Rodar o Projeto Localmente
+
+Siga os passos abaixo para clonar e executar a aplicação na sua máquina:
+
+### 1. Pré-requisitos
+Certifique-se de ter o **Node.js** (versão 18 ou superior) e o **npm** instalados.
+
+### 2. Clonar o repositório
+```bash
+git clone [git@github.com:Matheus29lfy/econverse-store.git](git@github.com:Matheus29lfy/econverse-store.git)
+cd econverse-store
+
+```
+
+### 3. Instalar as dependências
+
+```bash
+npm install
 
 ```
 
-You can also install [eslint-plugin-react-x](https://npmx.dev/package/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://npmx.dev/package/eslint-plugin-react-dom) for React-specific lint rules:
+### 4. Executar em modo de desenvolvimento
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+```bash
+npm run dev
 
 ```
+
+O projeto estará disponível em `http://localhost:5173`.
+
+---
+
+## 🧪 Como Executar os Testes Unitários
+
+A aplicação conta com uma suíte de testes abrangente cobrindo os principais componentes visuais e de interação (`ProductCard`, `ProductModal`, `RelatedProducts`, `Categories`, `Brands`, etc.) utilizando **Vitest** e **React Testing Library**.
+
+Para rodar os testes em modo interativo (Watch Mode):
+
+```bash
+npm run test
+
+```
+
+Para rodar a suíte completa de testes uma única vez (Ideal para pipelines de CI/CD):
+
+```bash
+npx vitest run
+
+```
+
+---
+
+## 📦 Como Gerar o Build de Produção
+
+Para validar a compilação e gerar os arquivos otimizados para deploy:
+
+```bash
+npm run build
+
+```
+
+---
+
+## 📄 Licença
+
+Este projeto foi desenvolvido para fins educacionais e de portfólio profissional.
